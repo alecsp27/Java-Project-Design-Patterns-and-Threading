@@ -1,0 +1,888 @@
+Luptator1: Pikachu HP: 35 Attack:0 Special Attack: 4 Defense: 2 SpecialDefense: 3
+Luptator2: Jigglypuff HP: 34 Attack:4 Special Attack: 0 Defense: 2 SpecialDefense: 9
+Jigglypuff atac normal / Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 39
+	b. Pikachu HP 33
+Jigglypuff abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 39, abilitate 1 cooldown 4
+	b. Pikachu HP 29, abilitate 1 cooldown 4
+Jigglypuff atac normal / Pikachu abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 29, abilitate 1 cooldown 3
+	b. Pikachu HP 29, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Jigglypuff nimic /  Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 34, abilitate 1 cooldown 2
+	b. Pikachu HP 29, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Jigglypuff atac normal / Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 39, abilitate 1 cooldown 1
+	b. Pikachu HP 27, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Jigglypuff atac normal / Pikachu abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 33
+	b. Pikachu HP 25, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Jigglypuff abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 38, abilitate 1 cooldown 4
+	b. Pikachu HP 21, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff abilitate 2 / Pikachu nimic ->Rezultat: 
+	a. Jigglypuff HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Pikachu HP 18, abilitate 1 cooldown 2
+Jigglypuff atac normal / Pikachu nimic ->Rezultat: 
+	a. Jigglypuff HP 38, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Pikachu HP 16, abilitate 1 cooldown 1
+Jigglypuff atac normal / Pikachu abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Pikachu HP 16, abilitate 2 cooldown 5
+Jigglypuff nimic /  Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 39, abilitate 2 cooldown 1
+	b. Pikachu HP 16, abilitate 2 cooldown 4
+Jigglypuff abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 39, abilitate 1 cooldown 4
+	b. Pikachu HP 12, abilitate 2 cooldown 3
+Jigglypuff atac normal / Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 44, abilitate 1 cooldown 3
+	b. Pikachu HP 10, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Jigglypuff abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 49, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Pikachu HP 7, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / 	a. Jigglypuff HP 49, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Pikachu HP 5, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Jigglypuff abilitate 1 / Pikachu nimic ->Rezultat: 
+	a. Jigglypuff HP 49, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Pikachu HP 5, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Jigglypuff nimic /  Pikachu nimic ->Rezultat: 
+	a. Jigglypuff HP 54, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 5, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Jigglypuff atac normal / Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 59, abilitate 1 cooldown 2
+	b. Pikachu HP 3, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Jigglypuff abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Jigglypuff HP 64, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Pikachu HP 0, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Jigglypuff castiga lupta
+Imbunatatire atribute: Jigglypuff HP: 35 Attack:5 Special Attack: 0 Defense: 3 SpecialDefense: 4
+Luptator1: Squirtle HP: 60 Attack:0 Special Attack: 3 Defense: 5 SpecialDefense: 5
+Luptator2: Snorlax HP: 74 Attack:5 Special Attack: 0 Defense: 6 SpecialDefense: 4
+Snorlax abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 72, abilitate 1 cooldown 5
+	b. Squirtle HP 56, abilitate 2 cooldown 2
+Snorlax atac normal / Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 72, abilitate 1 cooldown 4
+	b. Squirtle HP 56, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 73, abilitate 1 cooldown 3
+	b. Squirtle HP 56, abilitate 1 cooldown 2
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 71, abilitate 1 cooldown 2
+	b. Squirtle HP 56, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 72, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Squirtle HP 56, abilitate 2 cooldown 1
+Snorlax abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 72, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	b. Squirtle HP 52, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 72, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Squirtle HP 52, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 73, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Squirtle HP 52
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 73, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Squirtle HP 52, abilitate 2 cooldown 2
+Snorlax abilitate 2 / Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 71, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Squirtle HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 69, abilitate 2 cooldown 4
+	b. Squirtle HP 52, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Snorlax abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 70, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	b. Squirtle HP 48, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Snorlax nimic /  Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 70, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 48, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 71, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 48, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 71, abilitate 1 cooldown 2
+	b. Squirtle HP 48
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 73, abilitate 1 cooldown 1
+	b. Squirtle HP 48
+Snorlax abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 71, abilitate 1 cooldown 5
+	b. Squirtle HP 44, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 67, abilitate 1 cooldown 4
+	b. Squirtle HP 44, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 67, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Squirtle HP 44, abilitate 1 cooldown 2
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 67, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 44, abilitate 1 cooldown 1
+Snorlax atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 63, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 44, abilitate 1 cooldown 3
+Snorlax abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 64, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+	b. Squirtle HP 40, abilitate 1 cooldown 2
+Snorlax atac normal / Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 64, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Squirtle HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Snorlax abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 64, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Squirtle HP 40, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 64, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 40, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 58, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 40, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 59, abilitate 2 cooldown 2
+	b. Squirtle HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 60, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	b. Squirtle HP 40
+Snorlax abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 60, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Squirtle HP 40, abilitate 2 cooldown 2
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 61, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 40, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 57, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 40, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 58, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 40, abilitate 1 cooldown 2
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 56, abilitate 2 cooldown 1
+	b. Squirtle HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 57
+	b. Squirtle HP 40, abilitate 2 cooldown 1
+Snorlax abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 55, abilitate 1 cooldown 5
+	b. Squirtle HP 36, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 55, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Squirtle HP 36, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 55, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 36, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 51, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 52, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 36, abilitate 1 cooldown 2
+Snorlax abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 53, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	b. Squirtle HP 32, abilitate 1 cooldown 1
+Snorlax abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 51, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Squirtle HP 32, abilitate 2 cooldown 2
+Snorlax atac normal / Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 51, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 32, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 49, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 32, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 50, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 48, abilitate 2 cooldown 1
+	b. Squirtle HP 32, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 49, abilitate 1 cooldown 5
+	b. Squirtle HP 32, abilitate 2 cooldown 1
+Snorlax abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 49, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Squirtle HP 32
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 47, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 32, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 43, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 32, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 32, abilitate 1 cooldown 2
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 45, abilitate 2 cooldown 1
+	b. Squirtle HP 32, abilitate 1 cooldown 1
+Snorlax abilitate 2 / Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 45, abilitate 2 cooldown 5
+	b. Squirtle HP 32, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 45, abilitate 2 cooldown 4
+	b. Squirtle HP 32, abilitate 1 cooldown 2
+Snorlax abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 45, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	b. Squirtle HP 28, abilitate 1 cooldown 2
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 44, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 28, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 44, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 28, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 40, abilitate 1 cooldown 2
+	b. Squirtle HP 28, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 38, abilitate 1 cooldown 1
+	b. Squirtle HP 28, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 39
+	b. Squirtle HP 28, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Snorlax abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 40, abilitate 1 cooldown 5
+	b. Squirtle HP 24
+Snorlax atac normal / Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 40, abilitate 1 cooldown 4
+	b. Squirtle HP 24, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 36, abilitate 1 cooldown 3
+	b. Squirtle HP 24, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 36, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Squirtle HP 24, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 36, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Squirtle HP 24, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Snorlax abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 36, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	b. Squirtle HP 20, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 32, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 20, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 20, abilitate 1 cooldown 1
+Snorlax atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 29, abilitate 1 cooldown 2
+	b. Squirtle HP 20, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 30, abilitate 1 cooldown 1
+	b. Squirtle HP 20, abilitate 1 cooldown 2
+Snorlax abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 30, abilitate 2 cooldown 5
+	b. Squirtle HP 20, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Snorlax abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 31, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	b. Squirtle HP 16, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 31, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Squirtle HP 16, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 32, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Squirtle HP 16, abilitate 1 cooldown 2
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 30, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Squirtle HP 16, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 26, abilitate 1 cooldown 1
+	b. Squirtle HP 16, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 27
+	b. Squirtle HP 16, abilitate 1 cooldown 2
+Snorlax abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 25, abilitate 1 cooldown 5
+	b. Squirtle HP 12, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 25, abilitate 1 cooldown 4
+	b. Squirtle HP 12, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 26, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Squirtle HP 12, abilitate 1 cooldown 2
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 26, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 12, abilitate 1 cooldown 1
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 27, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 12
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 25, abilitate 2 cooldown 2
+	b. Squirtle HP 12, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 26, abilitate 2 cooldown 1
+	b. Squirtle HP 12, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 27
+	b. Squirtle HP 12
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 25
+	b. Squirtle HP 12, abilitate 2 cooldown 2
+Snorlax abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 26, abilitate 1 cooldown 5
+	b. Squirtle HP 8, abilitate 2 cooldown 1
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 26, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Squirtle HP 8, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 27, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 8, abilitate 1 cooldown 2
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 28, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 8, abilitate 1 cooldown 1
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 26, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 8, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 22, abilitate 2 cooldown 1
+	b. Squirtle HP 8, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 20
+	b. Squirtle HP 8, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 21
+	b. Squirtle HP 8, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Snorlax abilitate 2 / Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 17, abilitate 2 cooldown 5
+	b. Squirtle HP 8, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 18, abilitate 2 cooldown 4
+	b. Squirtle HP 8, abilitate 1 cooldown 2
+Snorlax abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 19, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	b. Squirtle HP 4, abilitate 1 cooldown 1
+Snorlax atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 15, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 4, abilitate 1 cooldown 3
+Snorlax atac normal / Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 15, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 4, abilitate 1 cooldown 2
+Snorlax abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Snorlax HP 15, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Squirtle HP 4, abilitate 1 cooldown 1
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 13, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Squirtle HP 4, abilitate 2 cooldown 2
+Snorlax atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 13, abilitate 2 cooldown 3
+	b. Squirtle HP 4, abilitate 2 cooldown 1
+Snorlax nimic /  Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 12, abilitate 2 cooldown 2
+	b. Squirtle HP 4, abilitate 2 cooldown 2
+Snorlax nimic /  Squirtle atac special ->Rezultat:
+	a. Snorlax HP 13, abilitate 2 cooldown 1
+	b. Squirtle HP 4, abilitate 2 cooldown 1
+Snorlax abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Snorlax HP 11, abilitate 2 cooldown 5
+	b. Squirtle HP 4, abilitate 2 cooldown 2
+Snorlax atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Snorlax HP 7, abilitate 2 cooldown 4
+	b. Squirtle HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 8, abilitate 2 cooldown 3
+	b. Squirtle HP 4, abilitate 1 cooldown 2
+Snorlax atac normal / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 9, abilitate 2 cooldown 2
+	b. Squirtle HP 4, abilitate 1 cooldown 1
+Snorlax abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Snorlax HP 9, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	b. Squirtle HP 0, abilitate 1 cooldown 1
+Snorlax castiga lupta
+Imbunatatire atribute: Snorlax HP: 63 Attack:4 Special Attack: 0 Defense: 7 SpecialDefense: 5
+Luptator1: Psyduck HP: 55 Attack:5 Special Attack: 0 Defense: 3 SpecialDefense: 3
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 54
+	b. Neutrel2 HP 16
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 53, abilitate 2 cooldown 5
+	b. Neutrel2 HP 14
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 53, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel2 HP 12
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel2 HP 8
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 51, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 4
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 50, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP 0
+Psyduck castiga lupta
+Imbunatatire atribute: Psyduck HP: 44 Attack: 4 Special Attack: 0 Defense: 4 SpecialDefense: 4
+
+Luptator1: Meowth HP: 41 Attack:3 Special Attack: 0 Defense: 6 SpecialDefense: 4
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 41, abilitate 2 cooldown 3
+	b. Neutrel2 HP 19
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 41, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Neutrel2 HP 14
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP 12
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 45, abilitate 1 cooldown 2
+	b. Neutrel2 HP 10
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 47, abilitate 1 cooldown 1
+	b. Neutrel2 HP 8
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 47, abilitate 2 cooldown 3
+	b. Neutrel2 HP 7
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 47, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Neutrel2 HP 2
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 49, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP 0
+Meowth castiga lupta
+Imbunatatire atribute: Meowth HP: 42 Attack:4 Special Attack: 0 Defense: 5 SpecialDefense: 3
+
+Luptator1: Psyduck HP: 56 Attack:6 Special Attack: 0 Defense: 4 SpecialDefense: 4
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 57, abilitate 1 cooldown 4
+	b. Neutrel1 HP 8
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 58, abilitate 1 cooldown 3
+	b. Neutrel1 HP 3
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 59, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Neutrel1 HP 1
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 59, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Neutrel1 HP -4
+Psyduck castiga luptaImbunatatire atribute: Psyduck HP: 45 Attack: 5 Special Attack: 0 Defense: 5 SpecialDefense: 5
+
+Luptator1: Meowth HP: 42 Attack:4 Special Attack: 0 Defense: 7 SpecialDefense: 5
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 46
+	b. Neutrel1 HP 7
+Meowth atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 50
+	b. Neutrel1 HP 4
+Meowth atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 54
+	b. Neutrel1 HP 1
+Meowth abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 54, abilitate 1 cooldown 4
+	b. Neutrel1 HP -4
+Meowth castiga luptaImbunatatire atribute: Meowth HP: 43 Attack:5 Special Attack: 0 Defense: 6 SpecialDefense: 4
+
+Luptator1: Psyduck HP: 57 Attack:7 Special Attack: 0 Defense: 5 SpecialDefense: 5
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 59
+	b. Neutrel1 HP 4
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 61, abilitate 2 cooldown 5
+	b. Neutrel1 HP 2
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 61, abilitate 2 cooldown 4
+	b. Neutrel1 HP -4
+Psyduck castiga luptaImbunatatire atribute: Psyduck HP: 46 Attack: 6 Special Attack: 0 Defense: 6 SpecialDefense: 6
+
+Luptator1: Meowth HP: 43 Attack:5 Special Attack: 0 Defense: 8 SpecialDefense: 6
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 43, abilitate 2 cooldown 3
+	b. Neutrel1 HP 9
+Meowth abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Neutrel1 HP 4
+Meowth atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 48, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel1 HP 0
+Meowth castiga luptaImbunatatire atribute: Meowth HP: 44 Attack:6 Special Attack: 0 Defense: 7 SpecialDefense: 5
+
+Luptator1: Psyduck HP: 58 Attack:8 Special Attack: 0 Defense: 6 SpecialDefense: 6
+Luptator2: Meowth HP: 44 Attack:6 Special Attack: 0 Defense: 9 SpecialDefense: 7
+Meowth abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 45, abilitate 2 cooldown 3
+	b. Psyduck HP 57
+Meowth abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 45, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 52
+Meowth atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 52, abilitate 1 cooldown 4
+Meowth abilitate 2 / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 41, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Psyduck HP 51, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 42, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Psyduck HP 51, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Meowth abilitate 1 / 	a. Meowth HP 42, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Psyduck HP 46, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Meowth abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 42, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Psyduck HP 45, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 42, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Psyduck HP 45, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Psyduck HP 45, abilitate 1 cooldown 2
+Meowth abilitate 2 / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 41, abilitate 2 cooldown 3
+	b. Psyduck HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Meowth abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 41, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 39, abilitate 2 cooldown 4
+Meowth atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 39, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 39, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Meowth abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 40, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Psyduck HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Psyduck HP 38, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Meowth abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 41, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Psyduck HP 33, abilitate 1 cooldown 1
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 41, abilitate 1 cooldown 3
+	b. Psyduck HP 33
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 42, abilitate 1 cooldown 2
+	b. Psyduck HP 33
+Meowth abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Psyduck HP 32
+Meowth atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 43, abilitate 2 cooldown 2
+	b. Psyduck HP 32, abilitate 2 cooldown 5
+Meowth nimic /  Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 44, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Psyduck HP 32, abilitate 2 cooldown 4
+Meowth abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 45, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Psyduck HP 31, abilitate 2 cooldown 3
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 45, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Psyduck HP 31, abilitate 2 cooldown 2
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 47, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Psyduck HP 31, abilitate 2 cooldown 1
+Meowth atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 45
+	b. Psyduck HP 31, abilitate 2 cooldown 5
+Meowth abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 45, abilitate 1 cooldown 4
+	b. Psyduck HP 26, abilitate 2 cooldown 4
+Meowth abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 45, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Psyduck HP 25, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 45, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Psyduck HP 25, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 46, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Psyduck HP 25, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Meowth atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 44
+	b. Psyduck HP 25, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Meowth nimic /  Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 42, abilitate 2 cooldown 3
+	b. Psyduck HP 25, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 42, abilitate 2 cooldown 2
+	b. Psyduck HP 25, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 43, abilitate 2 cooldown 1
+	b. Psyduck HP 25, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Meowth abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 44, abilitate 1 cooldown 4
+	b. Psyduck HP 20, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Meowth abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 44, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Psyduck HP 19, abilitate 1 cooldown 4
+Meowth atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Psyduck HP 19, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Meowth atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Psyduck HP 19, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Meowth nimic /  Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 46, abilitate 2 cooldown 3
+	b. Psyduck HP 19, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Meowth abilitate 1 / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 46, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 14, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 46, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 14, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth abilitate 2 / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Psyduck HP 13, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Psyduck HP 13, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 44, abilitate 2 cooldown 1
+	b. Psyduck HP 13, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Meowth abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 43, abilitate 1 cooldown 4
+	b. Psyduck HP 8, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Meowth abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Psyduck HP 7, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 43, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Psyduck HP 7, abilitate 1 cooldown 1
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Psyduck HP 7
+Meowth atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 42
+	b. Psyduck HP 7, abilitate 1 cooldown 4
+Meowth abilitate 2 / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 40, abilitate 2 cooldown 3
+	b. Psyduck HP 6, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 40, abilitate 2 cooldown 2
+	b. Psyduck HP 6, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 41, abilitate 2 cooldown 1
+	b. Psyduck HP 6, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 42
+	b. Psyduck HP 6, abilitate 2 cooldown 2
+Meowth atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 40
+	b. Psyduck HP 6, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Meowth abilitate 1 / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 38, abilitate 1 cooldown 4
+	b. Psyduck HP 1, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Meowth abilitate 2 / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Psyduck HP 0, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Meowth castiga lupta
+Imbunatatire atribute: Meowth HP: 45 Attack:7 Special Attack: 0 Defense: 8 SpecialDefense: 6
+Luptator1: Psyduck HP: 58 Attack:8 Special Attack: 0 Defense: 6 SpecialDefense: 6
+Luptator2: Snorlax HP: 75 Attack:6 Special Attack: 0 Defense: 7 SpecialDefense: 5
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 74
+	b. Psyduck HP 58
+Snorlax abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 74, abilitate 2 cooldown 5
+	b. Psyduck HP 58, abilitate 1 cooldown 4
+Snorlax atac normal / 	a. Snorlax HP 74, abilitate 2 cooldown 4
+	b. Psyduck HP 58, abilitate 1 cooldown 3
+Snorlax abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 73, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	b. Psyduck HP 54, abilitate 1 cooldown 3
+Snorlax atac normal / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 72, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 54, abilitate 1 cooldown 1
+Snorlax atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP 70, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 54, abilitate 2 cooldown 5
+Snorlax nimic /  Psyduck abilitate 1 ->Rezultat:
+	a. Snorlax HP 68, abilitate 1 cooldown 2
+	b. Psyduck HP 54, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Snorlax abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 67, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Psyduck HP 54, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 67, abilitate 2 cooldown 4
+	b. Psyduck HP 54, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Snorlax abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 66, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	b. Psyduck HP 50, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Snorlax atac normal / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 66, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 50
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 65, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 50
+Snorlax abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 64, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Psyduck HP 50
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 63, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Psyduck HP 50
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 62, abilitate 2 cooldown 3
+	b. Psyduck HP 50
+Snorlax abilitate 1 / Psyduck abilitate 1 ->Rezultat:
+	a. Snorlax HP 60, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+	b. Psyduck HP 46, abilitate 1 cooldown 4
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 59, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Psyduck HP 46, abilitate 1 cooldown 3
+Snorlax atac normal / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 59, abilitate 1 cooldown 3
+	b. Psyduck HP 46, abilitate 1 cooldown 2
+Snorlax abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 58, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Psyduck HP 46, abilitate 1 cooldown 1
+Snorlax atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP 56, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Psyduck HP 46, abilitate 2 cooldown 5
+Snorlax nimic /  Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 55, abilitate 2 cooldown 3
+	b. Psyduck HP 46, abilitate 2 cooldown 4
+Snorlax abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 54, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+	b. Psyduck HP 42, abilitate 2 cooldown 3
+Snorlax atac normal / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 54, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Psyduck HP 42, abilitate 2 cooldown 2
+Snorlax abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Snorlax HP 54, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Psyduck HP 42, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 53, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Psyduck HP 42, abilitate 1 cooldown 3
+Snorlax atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP 51, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Psyduck HP 42, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Snorlax nimic /  Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 50, abilitate 2 cooldown 2
+	b. Psyduck HP 42, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax abilitate 1 / Psyduck abilitate 1 ->Rezultat:
+	a. Snorlax HP 48, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	b. Psyduck HP 38, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax abilitate 2 / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 48, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Psyduck HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 47, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Psyduck HP 38, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 46, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Psyduck HP 38, abilitate 1 cooldown 1
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 45, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Psyduck HP 38
+Snorlax abilitate 1 / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP 43, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	b. Psyduck HP 34, abilitate 2 cooldown 5
+Snorlax nimic /  Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Psyduck HP 34, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Snorlax atac normal / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Psyduck HP 34, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 41, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Psyduck HP 34, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Psyduck HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Snorlax abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 40, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	b. Psyduck HP 30, abilitate 2 cooldown 5
+Snorlax atac normal / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 38, abilitate 1 cooldown 4
+	b. Psyduck HP 30, abilitate 2 cooldown 4
+Snorlax nimic /  Psyduck abilitate 1 ->Rezultat:
+	a. Snorlax HP 36, abilitate 1 cooldown 3
+	b. Psyduck HP 30, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 35, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Psyduck HP 30, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Psyduck HP 30, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP 32, abilitate 2 cooldown 3
+	b. Psyduck HP 30, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP 32, abilitate 2 cooldown 2
+	b. Psyduck HP 30, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Snorlax nimic /  Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 29, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	b. Psyduck HP 30, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Snorlax abilitate 2 / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 29, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Psyduck HP 30, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 28, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Psyduck HP 30, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 27, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Psyduck HP 30
+Snorlax atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP 25, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Psyduck HP 30, abilitate 2 cooldown 5
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 24, abilitate 2 cooldown 1
+	b. Psyduck HP 30, abilitate 2 cooldown 4
+Snorlax nimic /  Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 23
+	b. Psyduck HP 30, abilitate 2 cooldown 3
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 22
+	b. Psyduck HP 30, abilitate 2 cooldown 2
+Snorlax abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 21, abilitate 1 cooldown 5
+	b. Psyduck HP 26, abilitate 2 cooldown 1
+Snorlax atac normal / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 21, abilitate 1 cooldown 4
+	b. Psyduck HP 26
+Snorlax abilitate 2 / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP 21, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Psyduck HP 26, abilitate 2 cooldown 5
+Snorlax atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Snorlax HP 19, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Psyduck HP 26, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 18, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Psyduck HP 26, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Snorlax abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 17, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+	b. Psyduck HP 22, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Snorlax atac normal / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 17, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Psyduck HP 22, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Snorlax atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Snorlax HP 15, abilitate 1 cooldown 3
+	b. Psyduck HP 22, abilitate 1 cooldown 4
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 14, abilitate 1 cooldown 2
+	b. Psyduck HP 22, abilitate 1 cooldown 3
+Snorlax abilitate 2 / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP 14, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Psyduck HP 22, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 13, abilitate 2 cooldown 4
+	b. Psyduck HP 22, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax nimic /  Psyduck abilitate 1 ->Rezultat:
+	a. Snorlax HP 11, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	b. Psyduck HP 22, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax atac normal / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 11, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 22, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 10, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 22, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax atac normal / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 9, abilitate 1 cooldown 2
+	b. Psyduck HP 22, abilitate 1 cooldown 1
+Snorlax abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Snorlax HP 7, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Psyduck HP 22, abilitate 1 cooldown 4
+Snorlax atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP 5, abilitate 2 cooldown 4
+	b. Psyduck HP 22, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Snorlax nimic /  Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 4, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	b. Psyduck HP 22, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Snorlax atac normal / Psyduck nimic ->Rezultat: 
+	a. Snorlax HP 4, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 22, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Snorlax atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Snorlax HP 2, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 22, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Snorlax abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Snorlax HP 1, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Psyduck HP 22, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Snorlax HP -1, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Psyduck HP 22, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Psyduck castiga lupta
+Imbunatatire atribute: Psyduck HP: 47 Attack:7 Special Attack: 0 Defense: 7 SpecialDefense: 7

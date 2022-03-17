@@ -1,0 +1,475 @@
+Luptator1: Bulbasaur HP: 52 Attack:0 Special Attack: 8 Defense: 3 SpecialDefense: 1
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 51, abilitate 1 cooldown 4
+	b. Neutrel2 HP 14
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 50, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel2 HP 8
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 49, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 1
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 48, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP -6
+Bulbasaur castiga lupta
+Imbunatatire atribute: Bulbasaur HP: 43 Attack: 0 Special Attack: 6 Defense: 4 SpecialDefense: 2
+
+Luptator1: Jigglypuff HP: 44 Attack:4 Special Attack: 0 Defense: 4 SpecialDefense: 5
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 44, abilitate 2 cooldown 4
+	b. Neutrel2 HP 16
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 44, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Neutrel2 HP 12
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 44, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Neutrel2 HP 9
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Neutrel2 HP 6
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Neutrel2 HP 2
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 44, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Neutrel2 HP -2
+Jigglypuff castiga lupta
+Imbunatatire atribute: Jigglypuff HP: 35 Attack:5 Special Attack: 0 Defense: 3 SpecialDefense: 4
+
+Luptator1: Bulbasaur HP: 53 Attack:0 Special Attack: 9 Defense: 4 SpecialDefense: 2
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 53
+	b. Neutrel2 HP 12
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 53
+	b. Neutrel2 HP 4
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 53, abilitate 2 cooldown 3
+	b. Neutrel2 HP -2
+Bulbasaur castiga lupta
+Imbunatatire atribute: Bulbasaur HP: 44 Attack: 0 Special Attack: 7 Defense: 5 SpecialDefense: 3
+
+Luptator1: Jigglypuff HP: 45 Attack:5 Special Attack: 0 Defense: 5 SpecialDefense: 6
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 46, abilitate 2 cooldown 4
+	b. Neutrel2 HP 16
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 46, abilitate 2 cooldown 3
+	b. Neutrel2 HP 12
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 46, abilitate 2 cooldown 2
+	b. Neutrel2 HP 8
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 46, abilitate 2 cooldown 1
+	b. Neutrel2 HP 4
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 46
+	b. Neutrel2 HP 0
+Jigglypuff castiga lupta
+Imbunatatire atribute: Jigglypuff HP: 36 Attack:6 Special Attack: 0 Defense: 4 SpecialDefense: 5
+
+Luptator1: Bulbasaur HP: 54 Attack:0 Special Attack: 10 Defense: 5 SpecialDefense: 3
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Bulbasaur abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Bulbasaur HP 56, abilitate 2 cooldown 3
+	b. Neutrel1 HP 4
+Bulbasaur atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Bulbasaur HP 58, abilitate 2 cooldown 2
+	b. Neutrel1 HP -5
+Bulbasaur castiga luptaImbunatatire atribute: Bulbasaur HP: 45 Attack: 0 Special Attack: 8 Defense: 6 SpecialDefense: 4
+
+Luptator1: Jigglypuff HP: 46 Attack:6 Special Attack: 0 Defense: 6 SpecialDefense: 7
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Jigglypuff abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Jigglypuff HP 49, abilitate 2 cooldown 4
+	b. Neutrel1 HP 6
+Jigglypuff abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Jigglypuff HP 49, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Neutrel1 HP 2
+Jigglypuff atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Jigglypuff HP 49, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Neutrel1 HP -3
+Jigglypuff castiga luptaImbunatatire atribute: Jigglypuff HP: 37 Attack:7 Special Attack: 0 Defense: 5 SpecialDefense: 6
+
+Luptator1: Bulbasaur HP: 55 Attack:0 Special Attack: 11 Defense: 6 SpecialDefense: 4
+Luptator2: Jigglypuff HP: 47 Attack:7 Special Attack: 0 Defense: 7 SpecialDefense: 8
+Jigglypuff abilitate 1 / Bulbasaur abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 41, abilitate 1 cooldown 4
+	b. Bulbasaur HP 51, abilitate 1 cooldown 4
+Jigglypuff abilitate 2 / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 41, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Bulbasaur HP 48, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Jigglypuff atac normal / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 41, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Bulbasaur HP 47, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff atac normal / Bulbasaur atac special ->Rezultat:
+	a. Jigglypuff HP 38, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Bulbasaur HP 46, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Jigglypuff atac normal / Bulbasaur atac special ->Rezultat:
+	a. Jigglypuff HP 35, abilitate 2 cooldown 1
+	b. Bulbasaur HP 45
+Jigglypuff abilitate 1 / Bulbasaur abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 30, abilitate 1 cooldown 4
+	b. Bulbasaur HP 41, abilitate 2 cooldown 3
+Jigglypuff abilitate 2 / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 30, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Bulbasaur HP 38, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Jigglypuff atac normal / Bulbasaur atac special ->Rezultat:
+	a. Jigglypuff HP 27, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Bulbasaur HP 37, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 27, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Bulbasaur HP 36, abilitate 1 cooldown 2
+Jigglypuff atac normal / Bulbasaur atac special ->Rezultat:
+	a. Jigglypuff HP 24, abilitate 2 cooldown 1
+	b. Bulbasaur HP 35, abilitate 1 cooldown 1
+Jigglypuff abilitate 2 / Bulbasaur abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 19, abilitate 2 cooldown 4
+	b. Bulbasaur HP 32, abilitate 2 cooldown 3
+Jigglypuff abilitate 1 / Bulbasaur atac special ->Rezultat:
+	a. Jigglypuff HP 16, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Bulbasaur HP 28, abilitate 2 cooldown 2
+Jigglypuff atac normal / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 16, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Bulbasaur HP 27, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Jigglypuff atac normal / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 16, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Bulbasaur HP 26, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Jigglypuff abilitate 2 / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 16, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Bulbasaur HP 23, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff abilitate 1 / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 13, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Bulbasaur HP 19, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Jigglypuff atac normal / Bulbasaur abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 7, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Bulbasaur HP 18, abilitate 1 cooldown 4
+Jigglypuff atac normal / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 7, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Bulbasaur HP 17, abilitate 1 cooldown 3
+Jigglypuff abilitate 2 / Bulbasaur atac special ->Rezultat:
+	a. Jigglypuff HP 4, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Bulbasaur HP 14, abilitate 1 cooldown 2
+Jigglypuff abilitate 1 / Bulbasaur atac special ->Rezultat:
+	a. Jigglypuff HP 1, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Bulbasaur HP 10, abilitate 1 cooldown 1
+Jigglypuff atac normal / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 1, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Bulbasaur HP 9
+Jigglypuff atac normal / Bulbasaur nimic ->Rezultat: 
+	a. Jigglypuff HP 1, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Bulbasaur HP 8, abilitate 2 cooldown 3
+Jigglypuff abilitate 2 / Bulbasaur abilitate 1 ->Rezultat:
+	a. Jigglypuff HP -5, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Bulbasaur HP 5, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Bulbasaur castiga lupta
+Imbunatatire atribute: Bulbasaur HP: 46 Attack:0 Special Attack: 9 Defense: 7 SpecialDefense: 5
+Luptator1: Charmander HP: 52 Attack:9 Special Attack: 0 Defense: 3 SpecialDefense: 8
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Charmander abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 51, abilitate 1 cooldown 4
+	b. Neutrel2 HP 16
+Charmander abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 51, abilitate 1 cooldown 3, abilitate 2 cooldown 6
+	b. Neutrel2 HP 12
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 50, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Neutrel2 HP 4
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 49, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Neutrel2 HP -4
+Charmander castiga lupta
+Imbunatatire atribute: Charmander HP: 51 Attack: 5 Special Attack: 0 Defense: 4 SpecialDefense: 3
+
+Luptator1: Eevee HP: 39 Attack:0 Special Attack: 4 Defense: 3 SpecialDefense: 9
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 38
+	b. Neutrel2 HP 17
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 37
+	b. Neutrel2 HP 14
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 36, abilitate 2 cooldown 3
+	b. Neutrel2 HP 9
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 36, abilitate 2 cooldown 2
+	b. Neutrel2 HP 6
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP 1
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 35, abilitate 1 cooldown 2
+	b. Neutrel2 HP -2
+Eevee castiga lupta
+Imbunatatire atribute: Eevee HP: 40 Attack:0 Special Attack: 5 Defense: 4 SpecialDefense: 4
+
+Luptator1: Charmander HP: 53 Attack:10 Special Attack: 0 Defense: 4 SpecialDefense: 9
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Charmander abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 53, abilitate 2 cooldown 6
+	b. Neutrel2 HP 16
+Charmander abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 53, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Neutrel2 HP 12
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 53, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Neutrel2 HP 3
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 53, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Neutrel2 HP -6
+Charmander castiga lupta
+Imbunatatire atribute: Charmander HP: 52 Attack: 6 Special Attack: 0 Defense: 5 SpecialDefense: 4
+
+Luptator1: Eevee HP: 40 Attack:0 Special Attack: 5 Defense: 4 SpecialDefense: 10
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 40, abilitate 1 cooldown 3
+	b. Neutrel2 HP 15
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 40, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Neutrel2 HP 10
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Neutrel2 HP 6
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 40, abilitate 2 cooldown 1
+	b. Neutrel2 HP 2
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 40, abilitate 1 cooldown 3
+	b. Neutrel2 HP -3
+Eevee castiga lupta
+Imbunatatire atribute: Eevee HP: 41 Attack:0 Special Attack: 6 Defense: 5 SpecialDefense: 5
+
+Luptator1: Charmander HP: 54 Attack:11 Special Attack: 0 Defense: 5 SpecialDefense: 10
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 55
+	b. Neutrel2 HP 10
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 56
+	b. Neutrel2 HP 0
+Charmander castiga lupta
+Imbunatatire atribute: Charmander HP: 53 Attack: 7 Special Attack: 0 Defense: 6 SpecialDefense: 5
+
+Luptator1: Eevee HP: 41 Attack:0 Special Attack: 6 Defense: 5 SpecialDefense: 11
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 42
+	b. Neutrel2 HP 15
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 43, abilitate 1 cooldown 3
+	b. Neutrel2 HP 10
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Neutrel2 HP 5
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Neutrel2 HP 0
+Eevee castiga lupta
+Imbunatatire atribute: Eevee HP: 42 Attack:0 Special Attack: 7 Defense: 6 SpecialDefense: 6
+
+Luptator1: Charmander HP: 55 Attack:12 Special Attack: 0 Defense: 6 SpecialDefense: 11
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Charmander abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 57, abilitate 1 cooldown 4
+	b. Neutrel2 HP 16
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 57, abilitate 1 cooldown 3
+	b. Neutrel2 HP 5
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 57, abilitate 1 cooldown 2
+	b. Neutrel2 HP -6
+Charmander castiga lupta
+Imbunatatire atribute: Charmander HP: 54 Attack: 8 Special Attack: 0 Defense: 7 SpecialDefense: 6
+
+Luptator1: Eevee HP: 42 Attack:0 Special Attack: 7 Defense: 6 SpecialDefense: 12
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 44
+	b. Neutrel2 HP 14
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 46
+	b. Neutrel2 HP 8
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 48, abilitate 2 cooldown 3
+	b. Neutrel2 HP 3
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 48, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Neutrel2 HP -2
+Eevee castiga lupta
+Imbunatatire atribute: Eevee HP: 43 Attack:0 Special Attack: 8 Defense: 7 SpecialDefense: 7
+
+Luptator1: Charmander HP: 56 Attack:13 Special Attack: 0 Defense: 7 SpecialDefense: 12
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Charmander abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Charmander HP 60, abilitate 1 cooldown 4
+	b. Neutrel1 HP 6
+Charmander atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Charmander HP 60, abilitate 1 cooldown 3
+	b. Neutrel1 HP -6
+Charmander castiga luptaImbunatatire atribute: Charmander HP: 55 Attack: 9 Special Attack: 0 Defense: 8 SpecialDefense: 7
+
+Luptator1: Eevee HP: 43 Attack:0 Special Attack: 8 Defense: 7 SpecialDefense: 13
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Eevee atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Eevee HP 47
+	b. Neutrel1 HP 3
+Eevee atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Eevee HP 51
+	b. Neutrel1 HP -4
+Eevee castiga luptaImbunatatire atribute: Eevee HP: 44 Attack:0 Special Attack: 9 Defense: 8 SpecialDefense: 8
+
+Luptator1: Charmander HP: 57 Attack:14 Special Attack: 0 Defense: 8 SpecialDefense: 13
+Luptator2: Eevee HP: 44 Attack:0 Special Attack: 9 Defense: 8 SpecialDefense: 14
+Eevee atac special / Charmander abilitate 2 ->Rezultat:
+	a. Eevee HP 37
+	b. Charmander HP 61, abilitate 2 cooldown 6
+Eevee abilitate 1 / Charmander atac normal ->Rezultat: 
+	a. Eevee HP 31, abilitate 1 cooldown 3
+	b. Charmander HP 56, abilitate 2 cooldown 5
+Eevee abilitate 2 / Charmander atac normal ->Rezultat: 
+	a. Eevee HP 25, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Charmander HP 53, abilitate 2 cooldown 4
+Eevee atac special / Charmander nimic ->Rezultat: 
+	a. Eevee HP 25, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Charmander HP 57, abilitate 2 cooldown 3
+Eevee abilitate 1 / Charmander abilitate 1 ->Rezultat:
+	a. Eevee HP 21, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Charmander HP 52, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Eevee nimic /  Charmander atac normal ->Rezultat: 
+	a. Eevee HP 15, abilitate 1 cooldown 2
+	b. Charmander HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Eevee atac special / Charmander abilitate 2 ->Rezultat:
+	a. Eevee HP 8, abilitate 1 cooldown 1
+	b. Charmander HP 56, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+Eevee abilitate 1 / Charmander atac normal ->Rezultat: 
+	a. Eevee HP 2, abilitate 1 cooldown 3
+	b. Charmander HP 51, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Eevee abilitate 2 / Charmander atac normal ->Rezultat: 
+	a. Eevee HP -4, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Charmander HP 48, abilitate 2 cooldown 4
+Charmander castiga lupta
+Imbunatatire atribute: Charmander HP: 56 Attack:10 Special Attack: 0 Defense: 9 SpecialDefense: 8
+Luptator1: Psyduck HP: 43 Attack:6 Special Attack: 0 Defense: 4 SpecialDefense: 3
+Luptator2: Meowth HP: 41 Attack:3 Special Attack: 0 Defense: 4 SpecialDefense: 2
+Meowth abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 39, abilitate 2 cooldown 3
+	b. Psyduck HP 42, abilitate 1 cooldown 4
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 37, abilitate 2 cooldown 2
+	b. Psyduck HP 43, abilitate 1 cooldown 3
+Meowth abilitate 1 / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 35, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Psyduck HP 38, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 33, abilitate 1 cooldown 3
+	b. Psyduck HP 39, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 31, abilitate 1 cooldown 2
+	b. Psyduck HP 40, abilitate 2 cooldown 3
+Meowth abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 29, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Psyduck HP 39, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 29, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 34, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 29, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 35, abilitate 1 cooldown 2
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 29, abilitate 1 cooldown 2
+	b. Psyduck HP 36, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Meowth atac normal / 	a. Meowth HP 27, abilitate 1 cooldown 1
+	b. Psyduck HP 37, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Meowth nimic /  Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 23
+	b. Psyduck HP 37, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Meowth abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 23, abilitate 1 cooldown 4
+	b. Psyduck HP 32, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Meowth abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 23, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Psyduck HP 31, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Meowth atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 21, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Psyduck HP 32, abilitate 1 cooldown 4
+Meowth atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 19, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Psyduck HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Meowth nimic /  Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 17
+	b. Psyduck HP 33, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Meowth abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 15, abilitate 1 cooldown 4
+	b. Psyduck HP 28, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Meowth atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 15, abilitate 1 cooldown 3
+	b. Psyduck HP 29, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 15, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Psyduck HP 28, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 13, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Psyduck HP 29, abilitate 1 cooldown 2
+Meowth atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 11, abilitate 2 cooldown 1
+	b. Psyduck HP 30, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Meowth nimic /  Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 11, abilitate 2 cooldown 3
+	b. Psyduck HP 30, abilitate 2 cooldown 4
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 9, abilitate 2 cooldown 2
+	b. Psyduck HP 31, abilitate 2 cooldown 3
+Meowth atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Meowth HP 7, abilitate 2 cooldown 1
+	b. Psyduck HP 32, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 5
+	b. Psyduck HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth atac normal / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 3
+	b. Psyduck HP 34, abilitate 1 cooldown 2
+Meowth abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Meowth HP 1, abilitate 2 cooldown 3
+	b. Psyduck HP 33, abilitate 1 cooldown 1
+Meowth abilitate 1 / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 1, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 28, abilitate 2 cooldown 5
+Meowth atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Meowth HP 1, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 29, abilitate 2 cooldown 4
+Psyduck castiga lupta
+Imbunatatire atribute: Psyduck HP: 44 Attack:4 Special Attack: 0 Defense: 4 SpecialDefense: 4
+Luptator1: Charmander HP: 58 Attack:15 Special Attack: 0 Defense: 9 SpecialDefense: 14
+Luptator2: Eevee HP: 44 Attack:0 Special Attack: 9 Defense: 8 SpecialDefense: 14
+Eevee abilitate 1 / Charmander abilitate 2 ->Rezultat:
+	a. Eevee HP 37, abilitate 1 cooldown 3
+	b. Charmander HP 53, abilitate 2 cooldown 6
+Eevee abilitate 2 / Charmander atac normal ->Rezultat: 
+	a. Eevee HP 30, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Charmander HP 50, abilitate 2 cooldown 5
+Eevee atac special / Charmander atac normal ->Rezultat: 
+	a. Eevee HP 23, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Charmander HP 55, abilitate 2 cooldown 4
+Eevee abilitate 1 / Charmander nimic ->Rezultat: 
+	a. Eevee HP 23, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Charmander HP 50, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Eevee nimic /  Charmander atac normal ->Rezultat: 
+	a. Eevee HP 16, abilitate 1 cooldown 2
+	b. Charmander HP 50, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Eevee atac special / Charmander atac normal ->Rezultat: 
+	a. Eevee HP 9, abilitate 1 cooldown 1
+	b. Charmander HP 55, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Eevee abilitate 2 / Charmander atac normal ->Rezultat: 
+	a. Eevee HP 9, abilitate 2 cooldown 3
+	b. Charmander HP 52, abilitate 1 cooldown 1
+Eevee atac special / Charmander nimic ->Rezultat: 
+	a. Eevee HP 2, abilitate 2 cooldown 2
+	b. Charmander HP 57, abilitate 1 cooldown 4
+Charmander castiga lupta
+Imbunatatire atribute: Charmander HP: 57 Attack:11 Special Attack: 0 Defense: 10 SpecialDefense: 9

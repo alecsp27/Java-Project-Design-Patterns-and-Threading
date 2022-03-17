@@ -1,0 +1,507 @@
+Luptator1: Pikachu HP: 35 Attack:0 Special Attack: 7 Defense: 4 SpecialDefense: 5
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 35, abilitate 1 cooldown 4
+	b. Neutrel2 HP 14
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 35, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Neutrel2 HP 10
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 35, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Neutrel2 HP 4
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 35, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Neutrel2 HP -2
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 36 Attack: 0 Special Attack: 5 Defense: 3 SpecialDefense: 4
+
+Luptator1: Eevee HP: 39 Attack:0 Special Attack: 4 Defense: 5 SpecialDefense: 5
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 40, abilitate 1 cooldown 3
+	b. Neutrel2 HP 15
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 41, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Neutrel2 HP 10
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 41, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Neutrel2 HP 7
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 41, abilitate 2 cooldown 1
+	b. Neutrel2 HP 4
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 41, abilitate 2 cooldown 3
+	b. Neutrel2 HP -1
+Eevee castiga lupta
+Imbunatatire atribute: Eevee HP: 40 Attack:0 Special Attack: 5 Defense: 4 SpecialDefense: 4
+
+Luptator1: Pikachu HP: 36 Attack:0 Special Attack: 8 Defense: 5 SpecialDefense: 6
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 37
+	b. Neutrel2 HP 13
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 38
+	b. Neutrel2 HP 6
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 39, abilitate 1 cooldown 4
+	b. Neutrel2 HP 0
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 37 Attack: 0 Special Attack: 6 Defense: 4 SpecialDefense: 5
+
+Luptator1: Eevee HP: 40 Attack:0 Special Attack: 5 Defense: 6 SpecialDefense: 6
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 42
+	b. Neutrel2 HP 16
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 44, abilitate 1 cooldown 3
+	b. Neutrel2 HP 11
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 46, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Neutrel2 HP 6
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 46, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Neutrel2 HP 2
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 46, abilitate 2 cooldown 1
+	b. Neutrel2 HP -2
+Eevee castiga lupta
+Imbunatatire atribute: Eevee HP: 41 Attack:0 Special Attack: 6 Defense: 5 SpecialDefense: 5
+
+Luptator1: Pikachu HP: 37 Attack:0 Special Attack: 9 Defense: 6 SpecialDefense: 7
+Luptator2: Eevee HP: 41 Attack:0 Special Attack: 6 Defense: 7 SpecialDefense: 7
+Eevee abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Eevee HP 39, abilitate 1 cooldown 3
+	b. Pikachu HP 32
+Eevee atac special / Pikachu abilitate 1 ->Rezultat:
+	a. Eevee HP 33, abilitate 1 cooldown 2
+	b. Pikachu HP 33, abilitate 1 cooldown 4
+Eevee atac special / Pikachu atac special ->Rezultat:
+	a. Eevee HP 31, abilitate 1 cooldown 1
+	b. Pikachu HP 34, abilitate 1 cooldown 3
+Eevee abilitate 1 / Pikachu abilitate 2 ->Rezultat:
+	a. Eevee HP 27, abilitate 1 cooldown 3
+	b. Pikachu HP 29, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Eevee atac special / Pikachu atac special ->Rezultat:
+	a. Eevee HP 25, abilitate 1 cooldown 2
+	b. Pikachu HP 29, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Eevee nimic /  Pikachu abilitate 1 ->Rezultat:
+	a. Eevee HP 19, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Pikachu HP 29, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Eevee abilitate 1 / Pikachu nimic ->Rezultat: 
+	a. Eevee HP 19, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Pikachu HP 24, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Eevee atac special / Pikachu nimic ->Rezultat: 
+	a. Eevee HP 19, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Pikachu HP 25, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Eevee atac special / Pikachu abilitate 2 ->Rezultat:
+	a. Eevee HP 13, abilitate 1 cooldown 1
+	b. Pikachu HP 26, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Eevee nimic /  Pikachu atac special ->Rezultat:
+	a. Eevee HP 11
+	b. Pikachu HP 26, abilitate 2 cooldown 4
+Eevee abilitate 1 / Pikachu abilitate 1 ->Rezultat:
+	a. Eevee HP 5, abilitate 1 cooldown 3
+	b. Pikachu HP 21, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Eevee atac special / Pikachu atac special ->Rezultat:
+	a. Eevee HP 3, abilitate 1 cooldown 2
+	b. Pikachu HP 22, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Eevee atac special / Pikachu atac special ->Rezultat:
+	a. Eevee HP 1, abilitate 1 cooldown 1
+	b. Pikachu HP 23, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Eevee atac special / Pikachu abilitate 2 ->Rezultat:
+	a. Eevee HP -3
+	b. Pikachu HP 24, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 38 Attack:0 Special Attack: 7 Defense: 5 SpecialDefense: 6
+Luptator1: Bulbasaur HP: 44 Attack:0 Special Attack: 5 Defense: 3 SpecialDefense: 7
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 43, abilitate 2 cooldown 3
+	b. Neutrel2 HP 14
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 42, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Neutrel2 HP 8
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 41, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP 4
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 40, abilitate 1 cooldown 2
+	b. Neutrel2 HP 0
+Bulbasaur castiga lupta
+Imbunatatire atribute: Bulbasaur HP: 43 Attack: 0 Special Attack: 6 Defense: 4 SpecialDefense: 2
+
+Luptator1: Vulpix HP: 46 Attack:5 Special Attack: 0 Defense: 2 SpecialDefense: 4
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Vulpix abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 44, abilitate 1 cooldown 6
+	b. Neutrel2 HP 12
+Vulpix abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 44, abilitate 1 cooldown 5, abilitate 2 cooldown 7
+	b. Neutrel2 HP 10
+Vulpix atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 42, abilitate 1 cooldown 4, abilitate 2 cooldown 6
+	b. Neutrel2 HP 6
+Vulpix atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 40, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Neutrel2 HP 2
+Vulpix atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 38, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Neutrel2 HP -2
+Vulpix castiga lupta
+Imbunatatire atribute: Vulpix HP: 37 Attack:6 Special Attack: 0 Defense: 3 SpecialDefense: 5
+
+Luptator1: Bulbasaur HP: 45 Attack:0 Special Attack: 6 Defense: 4 SpecialDefense: 8
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Bulbasaur atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Bulbasaur HP 46
+	b. Neutrel1 HP 5
+Bulbasaur atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Bulbasaur HP 47
+	b. Neutrel1 HP 0
+Bulbasaur castiga luptaImbunatatire atribute: Bulbasaur HP: 44 Attack: 0 Special Attack: 7 Defense: 5 SpecialDefense: 3
+
+Luptator1: Vulpix HP: 47 Attack:6 Special Attack: 0 Defense: 3 SpecialDefense: 5
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Vulpix abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 47, abilitate 1 cooldown 6
+	b. Neutrel1 HP 2
+Vulpix atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 47, abilitate 1 cooldown 5
+	b. Neutrel1 HP -3
+Vulpix castiga luptaImbunatatire atribute: Vulpix HP: 38 Attack:7 Special Attack: 0 Defense: 4 SpecialDefense: 6
+
+Luptator1: Bulbasaur HP: 46 Attack:0 Special Attack: 7 Defense: 5 SpecialDefense: 9
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Bulbasaur abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Bulbasaur HP 48, abilitate 2 cooldown 3
+	b. Neutrel1 HP 4
+Bulbasaur abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Bulbasaur HP 50, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Neutrel1 HP -2
+Bulbasaur castiga luptaImbunatatire atribute: Bulbasaur HP: 45 Attack: 0 Special Attack: 8 Defense: 6 SpecialDefense: 4
+
+Luptator1: Vulpix HP: 48 Attack:7 Special Attack: 0 Defense: 4 SpecialDefense: 6
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Vulpix atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 49
+	b. Neutrel1 HP 4
+Vulpix abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 50, abilitate 1 cooldown 6
+	b. Neutrel1 HP -4
+Vulpix castiga luptaImbunatatire atribute: Vulpix HP: 39 Attack:8 Special Attack: 0 Defense: 5 SpecialDefense: 7
+
+Luptator1: Bulbasaur HP: 47 Attack:0 Special Attack: 8 Defense: 6 SpecialDefense: 10
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 49, abilitate 1 cooldown 4
+	b. Neutrel2 HP 14
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 51, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel2 HP 8
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 53, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 1
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 55, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP -6
+Bulbasaur castiga lupta
+Imbunatatire atribute: Bulbasaur HP: 46 Attack: 0 Special Attack: 9 Defense: 7 SpecialDefense: 5
+
+Luptator1: Vulpix HP: 49 Attack:8 Special Attack: 0 Defense: 5 SpecialDefense: 7
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Vulpix abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 49, abilitate 2 cooldown 7
+	b. Neutrel2 HP 18
+Vulpix abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 50, abilitate 1 cooldown 6, abilitate 2 cooldown 6
+	b. Neutrel2 HP 10
+Vulpix atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 50, abilitate 1 cooldown 5, abilitate 2 cooldown 5
+	b. Neutrel2 HP 3
+Vulpix atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 50, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel2 HP -4
+Vulpix castiga lupta
+Imbunatatire atribute: Vulpix HP: 40 Attack:9 Special Attack: 0 Defense: 6 SpecialDefense: 8
+
+Luptator1: Bulbasaur HP: 48 Attack:0 Special Attack: 9 Defense: 7 SpecialDefense: 11
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 51
+	b. Neutrel2 HP 12
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 54, abilitate 1 cooldown 4
+	b. Neutrel2 HP 6
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 57, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel2 HP 0
+Bulbasaur castiga lupta
+Imbunatatire atribute: Bulbasaur HP: 47 Attack: 0 Special Attack: 10 Defense: 8 SpecialDefense: 6
+
+Luptator1: Vulpix HP: 50 Attack:9 Special Attack: 0 Defense: 6 SpecialDefense: 8
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Vulpix atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 52
+	b. Neutrel2 HP 12
+Vulpix abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 54, abilitate 1 cooldown 6
+	b. Neutrel2 HP 4
+Vulpix atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Vulpix HP 54, abilitate 1 cooldown 5
+	b. Neutrel2 HP -4
+Vulpix castiga lupta
+Imbunatatire atribute: Vulpix HP: 41 Attack:10 Special Attack: 0 Defense: 7 SpecialDefense: 9
+
+Luptator1: Bulbasaur HP: 49 Attack:0 Special Attack: 10 Defense: 8 SpecialDefense: 12
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Bulbasaur abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Bulbasaur HP 54, abilitate 2 cooldown 3
+	b. Neutrel1 HP 4
+Bulbasaur atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Bulbasaur HP 59, abilitate 2 cooldown 2
+	b. Neutrel1 HP -5
+Bulbasaur castiga luptaImbunatatire atribute: Bulbasaur HP: 48 Attack: 0 Special Attack: 11 Defense: 9 SpecialDefense: 7
+
+Luptator1: Vulpix HP: 51 Attack:10 Special Attack: 0 Defense: 7 SpecialDefense: 9
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Vulpix atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 55
+	b. Neutrel1 HP 1
+Vulpix abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 55, abilitate 2 cooldown 7
+	b. Neutrel1 HP -1
+Vulpix castiga luptaImbunatatire atribute: Vulpix HP: 42 Attack:11 Special Attack: 0 Defense: 8 SpecialDefense: 10
+
+Luptator1: Bulbasaur HP: 50 Attack:0 Special Attack: 11 Defense: 9 SpecialDefense: 13
+Luptator2: Vulpix HP: 52 Attack:11 Special Attack: 0 Defense: 8 SpecialDefense: 10
+Vulpix abilitate 2 / Bulbasaur atac special ->Rezultat:
+	a. Vulpix HP 51, abilitate 2 cooldown 7
+	b. Bulbasaur HP 48
+Vulpix atac normal / Bulbasaur abilitate 2 ->Rezultat:
+	a. Vulpix HP 46, abilitate 2 cooldown 6
+	b. Bulbasaur HP 46, abilitate 2 cooldown 3
+Vulpix abilitate 1 / Bulbasaur abilitate 2 ->Rezultat:
+	a. Vulpix HP 46, abilitate 1 cooldown 6, abilitate 2 cooldown 5
+	b. Bulbasaur HP 38, abilitate 2 cooldown 3
+Vulpix atac normal / Bulbasaur nimic ->Rezultat: 
+	a. Vulpix HP 45, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	b. Bulbasaur HP 36, abilitate 2 cooldown 1
+Vulpix atac normal / Bulbasaur abilitate 2 ->Rezultat:
+	a. Vulpix HP 40, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Bulbasaur HP 34, abilitate 2 cooldown 3
+Vulpix atac normal / Bulbasaur atac special ->Rezultat:
+	a. Vulpix HP 39, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Bulbasaur HP 32, abilitate 2 cooldown 2
+Vulpix atac normal / Bulbasaur atac special ->Rezultat:
+	a. Vulpix HP 38, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Bulbasaur HP 30, abilitate 2 cooldown 1
+Vulpix atac normal / Bulbasaur atac special ->Rezultat:
+	a. Vulpix HP 38, abilitate 1 cooldown 1
+	b. Bulbasaur HP 28, abilitate 2 cooldown 1
+Vulpix abilitate 1 / Bulbasaur atac special ->Rezultat:
+	a. Vulpix HP 36, abilitate 1 cooldown 6
+	b. Bulbasaur HP 20
+Vulpix abilitate 2 / Bulbasaur nimic ->Rezultat: 
+	a. Vulpix HP 36, abilitate 1 cooldown 5, abilitate 2 cooldown 7
+	b. Bulbasaur HP 18
+Vulpix atac normal / Bulbasaur abilitate 2 ->Rezultat:
+	a. Vulpix HP 31, abilitate 1 cooldown 4, abilitate 2 cooldown 6
+	b. Bulbasaur HP 16, abilitate 2 cooldown 3
+Vulpix atac normal / Bulbasaur atac special ->Rezultat:
+	a. Vulpix HP 30, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Bulbasaur HP 14, abilitate 2 cooldown 2
+Vulpix atac normal / Bulbasaur abilitate 1 ->Rezultat:
+	a. Vulpix HP 24, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Bulbasaur HP 12, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Vulpix atac normal / Bulbasaur abilitate 2 ->Rezultat:
+	a. Vulpix HP 19, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Bulbasaur HP 10, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Vulpix atac normal / Bulbasaur atac special ->Rezultat:
+	a. Vulpix HP 18, abilitate 2 cooldown 2
+	b. Bulbasaur HP 8, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Vulpix abilitate 1 / 	a. Vulpix HP 18, abilitate 1 cooldown 6, abilitate 2 cooldown 1
+	b. Bulbasaur HP 0, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Vulpix castiga lupta
+Imbunatatire atribute: Vulpix HP: 43 Attack:12 Special Attack: 0 Defense: 9 SpecialDefense: 11
+Luptator1: Snorlax HP: 62 Attack:6 Special Attack: 0 Defense: 7 SpecialDefense: 4
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Snorlax atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Snorlax HP 66
+	b. Neutrel1 HP 5
+Snorlax atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Snorlax HP 70
+	b. Neutrel1 HP 0
+Snorlax castiga luptaImbunatatire atribute: Snorlax HP: 63 Attack: 4 Special Attack: 0 Defense: 7 SpecialDefense: 5
+
+Luptator1: Meowth HP: 43 Attack:5 Special Attack: 0 Defense: 4 SpecialDefense: 2
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 43, abilitate 1 cooldown 4
+	b. Neutrel1 HP 5
+Meowth abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel1 HP 4
+Meowth atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel1 HP 0
+Meowth castiga luptaImbunatatire atribute: Meowth HP: 42 Attack:4 Special Attack: 0 Defense: 5 SpecialDefense: 3
+
+Luptator1: Snorlax HP: 63 Attack:7 Special Attack: 0 Defense: 8 SpecialDefense: 5
+Luptator2: Meowth HP: 44 Attack:6 Special Attack: 0 Defense: 5 SpecialDefense: 3
+Meowth abilitate 2 / Snorlax abilitate 2 ->Rezultat:
+	a. Meowth HP 44, abilitate 2 cooldown 3
+	b. Snorlax HP 63, abilitate 2 cooldown 5
+Meowth atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Meowth HP 40, abilitate 2 cooldown 2
+	b. Snorlax HP 65, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Meowth nimic /  Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 38, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Snorlax HP 65, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Meowth abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 64, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Meowth atac normal / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 36, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 66, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Meowth atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Meowth HP 36, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 68, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Meowth atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Meowth HP 32
+	b. Snorlax HP 70, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Meowth nimic /  Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 30
+	b. Snorlax HP 70, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Meowth abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 28, abilitate 2 cooldown 3
+	b. Snorlax HP 69, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Meowth atac normal / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 26, abilitate 2 cooldown 2
+	b. Snorlax HP 71, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Meowth abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 24, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Snorlax HP 66, abilitate 1 cooldown 1
+Meowth abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 22, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 65
+Meowth atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Meowth HP 18, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 67, abilitate 1 cooldown 5
+Meowth nimic /  Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 16, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 67, abilitate 1 cooldown 4
+Meowth abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 14, abilitate 1 cooldown 4
+	b. Snorlax HP 62, abilitate 1 cooldown 3
+Meowth atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Meowth HP 14, abilitate 1 cooldown 3
+	b. Snorlax HP 64, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Meowth abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 14, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Snorlax HP 63, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Meowth atac normal / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 12, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Snorlax HP 65, abilitate 2 cooldown 3
+Meowth abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 10, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Snorlax HP 60, abilitate 2 cooldown 2
+Meowth atac normal / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 8, abilitate 1 cooldown 3
+	b. Snorlax HP 62, abilitate 2 cooldown 1
+Meowth atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Meowth HP 8, abilitate 1 cooldown 2
+	b. Snorlax HP 64, abilitate 2 cooldown 5
+Meowth atac normal / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 6, abilitate 1 cooldown 1
+	b. Snorlax HP 66, abilitate 2 cooldown 4
+Meowth abilitate 2 / Snorlax abilitate 1 ->Rezultat:
+	a. Meowth HP 6, abilitate 2 cooldown 3
+	b. Snorlax HP 65, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Meowth abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 6, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Snorlax HP 60, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth atac normal / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Snorlax HP 62, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth abilitate 2 / Snorlax abilitate 2 ->Rezultat:
+	a. Meowth HP 4, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Snorlax HP 62, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Meowth atac normal / Snorlax atac normal ->Rezultat: 
+	a. Meowth HP 2, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Snorlax HP 62, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax castiga lupta
+Imbunatatire atribute: Snorlax HP: 64 Attack:5 Special Attack: 0 Defense: 8 SpecialDefense: 6
+Luptator1: Snorlax HP: 64 Attack:8 Special Attack: 0 Defense: 9 SpecialDefense: 6
+Luptator2: Vulpix HP: 53 Attack:12 Special Attack: 0 Defense: 9 SpecialDefense: 11
+Vulpix abilitate 2 / Snorlax abilitate 2 ->Rezultat:
+	a. Vulpix HP 53, abilitate 2 cooldown 7
+	b. Snorlax HP 64, abilitate 2 cooldown 5
+Vulpix atac normal / Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 54, abilitate 2 cooldown 6
+	b. Snorlax HP 61, abilitate 2 cooldown 4
+Vulpix abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 55, abilitate 1 cooldown 6, abilitate 2 cooldown 5
+	b. Snorlax HP 53, abilitate 2 cooldown 3
+Vulpix atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Vulpix HP 51, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	b. Snorlax HP 50, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Vulpix nimic /  Snorlax nimic ->Rezultat: 
+	a. Vulpix HP 51, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Snorlax HP 50, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Vulpix atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Vulpix HP 51, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Snorlax HP 47, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Vulpix atac normal / Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 52, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Snorlax HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Vulpix atac normal / Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 53, abilitate 1 cooldown 1
+	b. Snorlax HP 41, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Vulpix atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Vulpix HP 49
+	b. Snorlax HP 38, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Vulpix nimic /  Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 50
+	b. Snorlax HP 38, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Vulpix abilitate 2 / Snorlax abilitate 2 ->Rezultat:
+	a. Vulpix HP 50, abilitate 2 cooldown 7
+	b. Snorlax HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Vulpix abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 50, abilitate 1 cooldown 6, abilitate 2 cooldown 6
+	b. Snorlax HP 30, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Vulpix atac normal / Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 51, abilitate 1 cooldown 5, abilitate 2 cooldown 5
+	b. Snorlax HP 27, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Vulpix atac normal / Snorlax nimic ->Rezultat: 
+	a. Vulpix HP 51, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Snorlax HP 24, abilitate 2 cooldown 2
+Vulpix atac normal / Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 21, abilitate 2 cooldown 1
+Vulpix atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Vulpix HP 52, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 18, abilitate 2 cooldown 5
+Vulpix atac normal / Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 53, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 18, abilitate 2 cooldown 4
+Vulpix atac normal / Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 53
+	b. Snorlax HP 15, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Vulpix nimic /  	a. Vulpix HP 49, abilitate 2 cooldown 7
+	b. Snorlax HP 15, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Vulpix abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Vulpix HP 50, abilitate 1 cooldown 6, abilitate 2 cooldown 6
+	b. Snorlax HP 7, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Vulpix atac normal / Snorlax nimic ->Rezultat: 
+	a. Vulpix HP 50, abilitate 1 cooldown 5, abilitate 2 cooldown 5
+	b. Snorlax HP 4, abilitate 1 cooldown 2
+Vulpix atac normal / Snorlax nimic ->Rezultat: 
+	a. Vulpix HP 50, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Snorlax HP 1, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Vulpix atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Vulpix HP 46, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP -2, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Vulpix castiga lupta
+Imbunatatire atribute: Vulpix HP: 44 Attack:13 Special Attack: 0 Defense: 10 SpecialDefense: 12

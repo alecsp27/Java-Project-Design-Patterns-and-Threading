@@ -1,0 +1,1105 @@
+Luptator1: Squirtle HP: 60 Attack:0 Special Attack: 3 Defense: 5 SpecialDefense: 11
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 61, abilitate 1 cooldown 3
+	b. Neutrel2 HP 16
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 62, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 12
+Squirtle atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 62, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP 10
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 62, abilitate 2 cooldown 2
+	b. Neutrel2 HP 6
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 62, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP 2
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 63, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP -2
+Squirtle castiga lupta
+Imbunatatire atribute: Squirtle HP: 61 Attack: 0 Special Attack: 4 Defense: 6 SpecialDefense: 6
+
+Luptator1: Jigglypuff HP: 34 Attack:4 Special Attack: 0 Defense: 2 SpecialDefense: 9
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 2 cooldown 4
+	b. Neutrel2 HP 16
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 2 cooldown 3
+	b. Neutrel2 HP 13
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Neutrel2 HP 9
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP 6
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Neutrel2 HP 2
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Neutrel2 HP -1
+Jigglypuff castiga lupta
+Imbunatatire atribute: Jigglypuff HP: 35 Attack:5 Special Attack: 0 Defense: 3 SpecialDefense: 4
+
+Luptator1: Squirtle HP: 61 Attack:0 Special Attack: 4 Defense: 6 SpecialDefense: 12
+Luptator2: Jigglypuff HP: 35 Attack:5 Special Attack: 0 Defense: 3 SpecialDefense: 10
+Jigglypuff abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 33, abilitate 1 cooldown 4
+	b. Squirtle HP 57, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 29, abilitate 1 cooldown 3
+	b. Squirtle HP 57, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 29, abilitate 1 cooldown 2
+	b. Squirtle HP 58, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 35, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Squirtle HP 58, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Jigglypuff atac normal / 	a. Jigglypuff HP 35, abilitate 2 cooldown 3
+	b. Squirtle HP 59
+Jigglypuff abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 33, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 55, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 55, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 31, abilitate 1 cooldown 2
+	b. Squirtle HP 56, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 31, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Squirtle HP 53, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 37, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Squirtle HP 53
+Jigglypuff atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Squirtle HP 54, abilitate 1 cooldown 3
+Jigglypuff atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 33, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Squirtle HP 55, abilitate 1 cooldown 3
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 39, abilitate 1 cooldown 1
+	b. Squirtle HP 55, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Jigglypuff abilitate 2 / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 45, abilitate 2 cooldown 4
+	b. Squirtle HP 52
+Jigglypuff abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 45, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Squirtle HP 48
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 45, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Squirtle HP 49, abilitate 1 cooldown 3
+Jigglypuff atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 43, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Squirtle HP 50, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 49, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Squirtle HP 50, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 55, abilitate 2 cooldown 3
+	b. Squirtle HP 51
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 55, abilitate 2 cooldown 2
+	b. Squirtle HP 52
+Jigglypuff abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 61, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Squirtle HP 48
+Jigglypuff abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 61, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 45, abilitate 2 cooldown 2
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 61, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 46, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 59, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 46, abilitate 2 cooldown 2
+Jigglypuff abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 59, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Squirtle HP 42, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 65, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 42, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 65, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 43
+Jigglypuff nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 61, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff abilitate 1 / Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 61, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Squirtle HP 39, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff abilitate 2 / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 67, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 36, abilitate 1 cooldown 2
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 67, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 37, abilitate 1 cooldown 1
+Jigglypuff nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 63, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 37, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 63, abilitate 2 cooldown 1
+	b. Squirtle HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 69
+	b. Squirtle HP 39, abilitate 1 cooldown 2
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 73, abilitate 1 cooldown 4
+	b. Squirtle HP 39, abilitate 2 cooldown 1
+Jigglypuff abilitate 2 / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 73, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 36, abilitate 2 cooldown 1
+Jigglypuff nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 69, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 69, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 37, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff abilitate 1 / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 69, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Squirtle HP 33, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 73, abilitate 1 cooldown 3
+	b. Squirtle HP 33, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 73, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 33, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 79, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 34
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 79, abilitate 2 cooldown 2
+	b. Squirtle HP 35, abilitate 1 cooldown 3
+Jigglypuff abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 85, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Squirtle HP 31, abilitate 1 cooldown 2
+Jigglypuff atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 83, abilitate 1 cooldown 3
+	b. Squirtle HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 83, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 32, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 81, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 33, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 81, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 33, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 81, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 34, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 87, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 34, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 85, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 35, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 85, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 35, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 83, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 36, abilitate 2 cooldown 2
+Jigglypuff abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 83, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 83, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 89, abilitate 2 cooldown 2
+	b. Squirtle HP 34, abilitate 1 cooldown 1
+Jigglypuff atac normal / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 89, abilitate 2 cooldown 1
+	b. Squirtle HP 35, abilitate 1 cooldown 1
+Jigglypuff abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 91, abilitate 1 cooldown 4
+	b. Squirtle HP 31, abilitate 1 cooldown 2
+Jigglypuff abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 89, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 28, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 89, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 28, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 89, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 29, abilitate 1 cooldown 3
+Jigglypuff abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 95, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Squirtle HP 25, abilitate 1 cooldown 2
+Jigglypuff atac normal / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 101, abilitate 1 cooldown 3
+	b. Squirtle HP 26, abilitate 1 cooldown 1
+Jigglypuff abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 101, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 23, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 97, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 23, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff abilitate 1 / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 97, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 19, abilitate 1 cooldown 2
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 97, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 20, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 103, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 20, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 99, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 21, abilitate 1 cooldown 3
+Jigglypuff abilitate 1 / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 99, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 17, abilitate 1 cooldown 2
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 99, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 18, abilitate 1 cooldown 2
+Jigglypuff abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 97, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 15, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 93, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 15, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 93, abilitate 2 cooldown 2
+	b. Squirtle HP 16, abilitate 1 cooldown 2
+Jigglypuff abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 91, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Squirtle HP 12, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 91, abilitate 1 cooldown 3
+	b. Squirtle HP 12, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 89, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 9, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 95, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 9, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Jigglypuff abilitate 1 / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 95, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 5, abilitate 1 cooldown 3
+Jigglypuff atac normal / Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 101, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 6, abilitate 1 cooldown 2
+Jigglypuff abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 101, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Squirtle HP 3, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 101, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Squirtle HP 3, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 101, abilitate 2 cooldown 2
+	b. Squirtle HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 105, abilitate 2 cooldown 1
+	b. Squirtle HP 4, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 103
+	b. Squirtle HP 5, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 99, abilitate 1 cooldown 4
+	b. Squirtle HP 5, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 99, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 2, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 99, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 3, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 99, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 3, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 97, abilitate 2 cooldown 1
+	b. Squirtle HP 4, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 109
+	b. Squirtle HP 4
+Jigglypuff abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 107, abilitate 2 cooldown 4
+	b. Squirtle HP 1, abilitate 2 cooldown 2
+Jigglypuff nimic /  Squirtle atac special ->Rezultat:
+	a. Jigglypuff HP 113, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Squirtle HP 1, abilitate 2 cooldown 1
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 113, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Squirtle HP 2
+Jigglypuff atac normal / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 113, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Squirtle HP 3, abilitate 1 cooldown 3
+Jigglypuff abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Jigglypuff HP 113, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Squirtle HP 0, abilitate 1 cooldown 3
+Jigglypuff castiga lupta
+Imbunatatire atribute: Jigglypuff HP: 36 Attack:6 Special Attack: 0 Defense: 4 SpecialDefense: 5
+Luptator1: Pikachu HP: 45 Attack:0 Special Attack: 7 Defense: 2 SpecialDefense: 3
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 45, abilitate 2 cooldown 5
+	b. Neutrel1 HP 6
+Pikachu abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 45, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel1 HP 0
+Pikachu castiga luptaImbunatatire atribute: Pikachu HP: 36 Attack: 0 Special Attack: 5 Defense: 3 SpecialDefense: 4
+
+Luptator1: Vulpix HP: 48 Attack:7 Special Attack: 0 Defense: 2 SpecialDefense: 4
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Vulpix abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 47, abilitate 1 cooldown 6
+	b. Neutrel1 HP 2
+Vulpix abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 47, abilitate 1 cooldown 5, abilitate 2 cooldown 7
+	b. Neutrel1 HP 0
+Vulpix castiga luptaImbunatatire atribute: Vulpix HP: 37 Attack:6 Special Attack: 0 Defense: 3 SpecialDefense: 5
+
+Luptator1: Pikachu HP: 46 Attack:0 Special Attack: 8 Defense: 3 SpecialDefense: 4
+Luptator2: Vulpix HP: 49 Attack:8 Special Attack: 0 Defense: 3 SpecialDefense: 5
+Vulpix atac normal / Pikachu atac special ->Rezultat:
+	a. Vulpix HP 46
+	b. Pikachu HP 41
+Vulpix atac normal / Pikachu atac special ->Rezultat:
+	a. Vulpix HP 43
+	b. Pikachu HP 36
+Vulpix abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Vulpix HP 43, abilitate 2 cooldown 7
+	b. Pikachu HP 34
+Vulpix abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Vulpix HP 43, abilitate 1 cooldown 6, abilitate 2 cooldown 6
+	b. Pikachu HP 26
+Vulpix atac normal / Pikachu abilitate 1 ->Rezultat:
+	a. Vulpix HP 37, abilitate 1 cooldown 5, abilitate 2 cooldown 5
+	b. Pikachu HP 21, abilitate 1 cooldown 4
+Vulpix atac normal / Pikachu nimic ->Rezultat: 
+	a. Vulpix HP 37, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Pikachu HP 21, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Vulpix nimic /  Pikachu atac special ->Rezultat:
+	a. Vulpix HP 34, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Pikachu HP 21, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Vulpix atac normal / Pikachu atac special ->Rezultat:
+	a. Vulpix HP 31, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 16, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Vulpix atac normal / Pikachu abilitate 1 ->Rezultat:
+	a. Vulpix HP 25, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 11, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Vulpix atac normal / Pikachu abilitate 1 ->Rezultat:
+	a. Vulpix HP 25
+	b. Pikachu HP 6, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Vulpix abilitate 1 / Pikachu abilitate 2 ->Rezultat:
+	a. Vulpix HP 18, abilitate 1 cooldown 6
+	b. Pikachu HP 6, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Vulpix abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Vulpix HP 18, abilitate 1 cooldown 5, abilitate 2 cooldown 7
+	b. Pikachu HP 6, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Vulpix atac normal / Pikachu atac special ->Rezultat:
+	a. Vulpix HP 15, abilitate 1 cooldown 4, abilitate 2 cooldown 6
+	b. Pikachu HP 1, abilitate 2 cooldown 3
+Vulpix atac normal / Pikachu atac special ->Rezultat:
+	a. Vulpix HP 12, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Pikachu HP -4, abilitate 2 cooldown 2
+Vulpix castiga lupta
+Imbunatatire atribute: Vulpix HP: 38 Attack:7 Special Attack: 0 Defense: 4 SpecialDefense: 6
+Luptator1: Snorlax HP: 62 Attack:3 Special Attack: 0 Defense: 6 SpecialDefense: 4
+Luptator2: Charmander HP: 50 Attack:4 Special Attack: 0 Defense: 5 SpecialDefense: 4
+Charmander abilitate 1 / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 46, abilitate 1 cooldown 4
+	b. Snorlax HP 58, abilitate 1 cooldown 5
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 48, abilitate 1 cooldown 3, abilitate 2 cooldown 6
+	b. Snorlax HP 58, abilitate 1 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 48, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Snorlax HP 60, abilitate 1 cooldown 4
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 48, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Snorlax HP 60, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 52, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Snorlax HP 56, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Snorlax HP 58, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 48, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Snorlax HP 60, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 50, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	b. Snorlax HP 60, abilitate 1 cooldown 4
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 50, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Snorlax HP 56, abilitate 1 cooldown 4
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Snorlax HP 58, abilitate 1 cooldown 2
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 52, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Snorlax HP 60, abilitate 1 cooldown 2
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 56, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Snorlax HP 62
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 58, abilitate 2 cooldown 1
+	b. Snorlax HP 64
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 58, abilitate 1 cooldown 4
+	b. Snorlax HP 60
+Charmander atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 58, abilitate 1 cooldown 3
+	b. Snorlax HP 60, abilitate 2 cooldown 5
+Charmander abilitate 2 / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 54, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	b. Snorlax HP 53, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 56, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Snorlax HP 53, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 60, abilitate 2 cooldown 4
+	b. Snorlax HP 55, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 60, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Snorlax HP 51, abilitate 1 cooldown 1
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 62, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Snorlax HP 53
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 64, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Snorlax HP 55
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 64, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	b. Snorlax HP 48
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 66, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Snorlax HP 44
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 62, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Snorlax HP 44, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 62, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Snorlax HP 46, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 64, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Snorlax HP 46, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 66, abilitate 2 cooldown 1
+	b. Snorlax HP 48, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 68, abilitate 2 cooldown 6
+	b. Snorlax HP 41, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 64, abilitate 2 cooldown 5
+	b. Snorlax HP 43, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 66, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Snorlax HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 66, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 45, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 68, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 47, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 68, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 49, abilitate 1 cooldown 1
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 70
+	b. Snorlax HP 51, abilitate 1 cooldown 1
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 66
+	b. Snorlax HP 53, abilitate 1 cooldown 5
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 68
+	b. Snorlax HP 53, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 68
+	b. Snorlax HP 55, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 70, abilitate 2 cooldown 6
+	b. Snorlax HP 48, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 68, abilitate 2 cooldown 5
+	b. Snorlax HP 50, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Charmander abilitate 1 / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 68, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Snorlax HP 46, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 70, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 46, abilitate 1 cooldown 4
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 70, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 46, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 72, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 48, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 76, abilitate 1 cooldown 4
+	b. Snorlax HP 44, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 78, abilitate 1 cooldown 3
+	b. Snorlax HP 46, abilitate 2 cooldown 1
+Charmander abilitate 2 / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 78, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	b. Snorlax HP 46, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 78, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Snorlax HP 46, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 80, abilitate 2 cooldown 4
+	b. Snorlax HP 48, abilitate 2 cooldown 4
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 78, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Snorlax HP 48, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 78, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Snorlax HP 50, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 78, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Snorlax HP 50, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 80, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	b. Snorlax HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Charmander abilitate 1 / 	a. Charmander HP 80, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Snorlax HP 39, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 82, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Snorlax HP 41, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 82, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Snorlax HP 43, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 78, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Snorlax HP 45, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 80, abilitate 2 cooldown 1
+	b. Snorlax HP 45, abilitate 1 cooldown 4
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 82, abilitate 2 cooldown 6
+	b. Snorlax HP 38, abilitate 1 cooldown 2
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 84, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Snorlax HP 34, abilitate 1 cooldown 2
+Charmander atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 84, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Snorlax HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 80, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Snorlax HP 36, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 84, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Snorlax HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 84, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Snorlax HP 32, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Charmander abilitate 2 / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 86, abilitate 1 cooldown 3, abilitate 2 cooldown 6
+	b. Snorlax HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 86, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Snorlax HP 32, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 84, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Snorlax HP 34, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 86, abilitate 2 cooldown 3
+	b. Snorlax HP 34, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 86, abilitate 2 cooldown 2
+	b. Snorlax HP 36, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 88, abilitate 2 cooldown 1
+	b. Snorlax HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 90, abilitate 1 cooldown 4
+	b. Snorlax HP 34, abilitate 1 cooldown 2
+Charmander atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 90, abilitate 1 cooldown 3
+	b. Snorlax HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 92, abilitate 1 cooldown 2
+	b. Snorlax HP 36, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 94, abilitate 1 cooldown 1
+	b. Snorlax HP 38, abilitate 2 cooldown 3
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 92, abilitate 2 cooldown 6
+	b. Snorlax HP 38, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 92, abilitate 2 cooldown 5
+	b. Snorlax HP 40, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 94, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Snorlax HP 36, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 96, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 38, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 96, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 96, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 42, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 98
+	b. Snorlax HP 42, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 100, abilitate 2 cooldown 6
+	b. Snorlax HP 35, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 100, abilitate 2 cooldown 5
+	b. Snorlax HP 37, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 104, abilitate 2 cooldown 4
+	b. Snorlax HP 39, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 104, abilitate 2 cooldown 3
+	b. Snorlax HP 41, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 106, abilitate 2 cooldown 2
+	b. Snorlax HP 43, abilitate 2 cooldown 1
+Charmander nimic /  Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 102, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Snorlax HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+Charmander abilitate 2 / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 102, abilitate 1 cooldown 3, abilitate 2 cooldown 6
+	b. Snorlax HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 106, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Snorlax HP 45, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 108, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Snorlax HP 47, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 108, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Snorlax HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Charmander nimic /  Snorlax nimic ->Rezultat: 
+	a. Charmander HP 104, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Snorlax HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 104, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Snorlax HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 106, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	b. Snorlax HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 110, abilitate 2 cooldown 5
+	b. Snorlax HP 38, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 112, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Snorlax HP 34, abilitate 2 cooldown 1
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 112, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 36, abilitate 2 cooldown 1
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 112, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 38, abilitate 1 cooldown 5
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 114, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 38, abilitate 1 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 118
+	b. Snorlax HP 40, abilitate 1 cooldown 2
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 118, abilitate 2 cooldown 6
+	b. Snorlax HP 33, abilitate 1 cooldown 2
+Charmander abilitate 1 / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 116, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Snorlax HP 29, abilitate 1 cooldown 5
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 116, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Snorlax HP 31, abilitate 1 cooldown 5
+Charmander nimic /  Snorlax nimic ->Rezultat: 
+	a. Charmander HP 116, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Snorlax HP 31, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 120, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Snorlax HP 33, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 120, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Snorlax HP 29, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 122, abilitate 1 cooldown 3
+	b. Snorlax HP 31, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Charmander abilitate 2 / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 122, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	b. Snorlax HP 24, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 124, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Snorlax HP 24, abilitate 1 cooldown 4
+Charmander atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 124, abilitate 2 cooldown 4
+	b. Snorlax HP 24, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 128, abilitate 2 cooldown 3
+	b. Snorlax HP 26, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 130, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Snorlax HP 22, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 130, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Snorlax HP 24, abilitate 2 cooldown 2
+Charmander abilitate 2 / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 130, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	b. Snorlax HP 17, abilitate 2 cooldown 1
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 132, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Snorlax HP 19, abilitate 2 cooldown 4
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 132, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Snorlax HP 15, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 134, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 17, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 134, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 19, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Charmander nimic /  Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 136, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 19, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Charmander abilitate 1 / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 136, abilitate 1 cooldown 4
+	b. Snorlax HP 19, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 138, abilitate 1 cooldown 3
+	b. Snorlax HP 21, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Charmander abilitate 2 / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 138, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	b. Snorlax HP 14, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 136, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Snorlax HP 14, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Charmander abilitate 1 / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 136, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Snorlax HP 14, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 136, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 14, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 138, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 16, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 140, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 18, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 144
+	b. Snorlax HP 20, abilitate 2 cooldown 1
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 144
+	b. Snorlax HP 22, abilitate 2 cooldown 1
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 146, abilitate 2 cooldown 6
+	b. Snorlax HP 15
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 148, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Snorlax HP 11
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 144, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Snorlax HP 13, abilitate 1 cooldown 5
+Charmander nimic /  Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 144, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Snorlax HP 13, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Charmander atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 144, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Snorlax HP 13, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 146, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Snorlax HP 9, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 148, abilitate 1 cooldown 3, abilitate 2 cooldown 6
+	b. Snorlax HP 2, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 148, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Snorlax HP 4, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 150, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Snorlax HP 6, abilitate 2 cooldown 1
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 152, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Snorlax HP 2, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 154, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Snorlax HP 4, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 154, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Snorlax HP 6, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 156, abilitate 1 cooldown 1
+	b. Snorlax HP 8, abilitate 2 cooldown 1
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 156, abilitate 2 cooldown 6
+	b. Snorlax HP 1, abilitate 2 cooldown 1
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 152, abilitate 2 cooldown 5
+	b. Snorlax HP 3, abilitate 1 cooldown 5
+Charmander nimic /  Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 154, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Snorlax HP 3, abilitate 1 cooldown 4
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 156, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 5, abilitate 1 cooldown 2
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 156, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 7, abilitate 1 cooldown 2
+Charmander atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Charmander HP 156, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 7, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Charmander abilitate 1 / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 154, abilitate 1 cooldown 4
+	b. Snorlax HP 3, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Charmander HP 154, abilitate 1 cooldown 3
+	b. Snorlax HP 5, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Charmander nimic /  Snorlax nimic ->Rezultat: 
+	a. Charmander HP 154, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	b. Snorlax HP 5, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 156, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Snorlax HP 7, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 158, abilitate 2 cooldown 4
+	b. Snorlax HP 9, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 158, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Snorlax HP 5, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Charmander atac normal / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 160, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Snorlax HP 7, abilitate 2 cooldown 3
+Charmander atac normal / Snorlax nimic ->Rezultat: 
+	a. Charmander HP 160, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Snorlax HP 9, abilitate 2 cooldown 2
+Charmander abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 162, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	b. Snorlax HP 2, abilitate 2 cooldown 1
+Charmander abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Charmander HP 164, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Snorlax HP -2
+Charmander castiga lupta
+Imbunatatire atribute: Charmander HP: 51 Attack:5 Special Attack: 0 Defense: 4 SpecialDefense: 3
+Luptator1: Squirtle HP: 61 Attack:0 Special Attack: 4 Defense: 6 SpecialDefense: 12
+Luptator2: Charmander HP: 51 Attack:5 Special Attack: 0 Defense: 6 SpecialDefense: 5
+Charmander abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 49, abilitate 1 cooldown 4
+	b. Squirtle HP 57, abilitate 2 cooldown 2
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 49, abilitate 1 cooldown 3
+	b. Squirtle HP 58, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Charmander nimic /  Squirtle nimic ->Rezultat: 
+	a. Charmander HP 49, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	b. Squirtle HP 58, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 48, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Squirtle HP 58, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 48, abilitate 2 cooldown 4
+	b. Squirtle HP 59, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Charmander abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Charmander HP 49, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Squirtle HP 55
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 48, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Squirtle HP 56, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle nimic ->Rezultat: 
+	a. Charmander HP 48, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Squirtle HP 56, abilitate 2 cooldown 1
+Charmander abilitate 2 / Squirtle abilitate 1 ->Rezultat:
+	a. Charmander HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	b. Squirtle HP 49, abilitate 1 cooldown 3
+Charmander atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Charmander HP 44, abilitate 2 cooldown 5
+	b. Squirtle HP 50, abilitate 1 cooldown 3
+Charmander abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Charmander HP 46, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Squirtle HP 46, abilitate 1 cooldown 1
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 44, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Squirtle HP 47, abilitate 2 cooldown 2
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Squirtle HP 48, abilitate 2 cooldown 1
+Charmander nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Charmander HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Squirtle HP 48, abilitate 1 cooldown 3
+Charmander abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Charmander HP 41, abilitate 1 cooldown 4
+	b. Squirtle HP 44, abilitate 1 cooldown 2
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 42, abilitate 1 cooldown 3
+	b. Squirtle HP 45, abilitate 1 cooldown 1
+Charmander abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Charmander HP 42, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	b. Squirtle HP 38, abilitate 1 cooldown 3
+Charmander atac normal / Squirtle nimic ->Rezultat: 
+	a. Charmander HP 42, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Squirtle HP 39, abilitate 1 cooldown 3
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 41, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Squirtle HP 39, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 39, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Squirtle HP 40, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle nimic ->Rezultat: 
+	a. Charmander HP 39, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Squirtle HP 40, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 37, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Squirtle HP 41, abilitate 2 cooldown 2
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 37
+	b. Squirtle HP 42, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 31, abilitate 1 cooldown 4
+	b. Squirtle HP 42, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 32, abilitate 1 cooldown 3
+	b. Squirtle HP 42, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle nimic ->Rezultat: 
+	a. Charmander HP 32, abilitate 1 cooldown 2
+	b. Squirtle HP 43, abilitate 1 cooldown 3
+Charmander abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Charmander HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	b. Squirtle HP 36, abilitate 1 cooldown 3
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 34, abilitate 2 cooldown 5
+	b. Squirtle HP 37, abilitate 1 cooldown 1
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 34, abilitate 2 cooldown 4
+	b. Squirtle HP 38, abilitate 1 cooldown 1
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 36, abilitate 2 cooldown 3
+	b. Squirtle HP 39
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 36, abilitate 2 cooldown 2
+	b. Squirtle HP 40
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 35, abilitate 2 cooldown 1
+	b. Squirtle HP 41, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 36, abilitate 1 cooldown 4
+	b. Squirtle HP 41, abilitate 2 cooldown 1
+Charmander abilitate 2 / Squirtle nimic ->Rezultat: 
+	a. Charmander HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 6
+	b. Squirtle HP 34, abilitate 2 cooldown 2
+Charmander atac normal / Squirtle nimic ->Rezultat: 
+	a. Charmander HP 36, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Squirtle HP 35, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 30, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Squirtle HP 35, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Charmander abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 30, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Squirtle HP 31, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 31, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Squirtle HP 31, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle nimic ->Rezultat: 
+	a. Charmander HP 31, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Squirtle HP 32, abilitate 1 cooldown 3
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 30, abilitate 1 cooldown 1
+	b. Squirtle HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 28
+	b. Squirtle HP 33, abilitate 2 cooldown 2
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 28
+	b. Squirtle HP 34, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 25
+	b. Squirtle HP 34, abilitate 1 cooldown 2
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 23
+	b. Squirtle HP 35, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 24, abilitate 1 cooldown 4
+	b. Squirtle HP 35, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 24, abilitate 1 cooldown 3
+	b. Squirtle HP 36, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 22, abilitate 1 cooldown 2
+	b. Squirtle HP 37, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 23, abilitate 1 cooldown 1
+	b. Squirtle HP 37, abilitate 2 cooldown 1
+Charmander abilitate 2 / Squirtle abilitate 1 ->Rezultat:
+	a. Charmander HP 19, abilitate 2 cooldown 6
+	b. Squirtle HP 30, abilitate 1 cooldown 3
+Charmander atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Charmander HP 19, abilitate 2 cooldown 5
+	b. Squirtle HP 31, abilitate 1 cooldown 2
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 21, abilitate 2 cooldown 4
+	b. Squirtle HP 32, abilitate 1 cooldown 1
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 22, abilitate 2 cooldown 3
+	b. Squirtle HP 33
+Charmander abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 20, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Squirtle HP 29, abilitate 2 cooldown 2
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 20, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Squirtle HP 30, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Charmander HP 16, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	b. Squirtle HP 30, abilitate 1 cooldown 3
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 17, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Squirtle HP 31, abilitate 1 cooldown 2
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 18, abilitate 2 cooldown 4
+	b. Squirtle HP 32, abilitate 1 cooldown 1
+Charmander abilitate 1 / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 16, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Squirtle HP 28, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle abilitate 1 ->Rezultat:
+	a. Charmander HP 12, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Squirtle HP 28, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle nimic ->Rezultat: 
+	a. Charmander HP 12, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Squirtle HP 29, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 13, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	b. Squirtle HP 29, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Charmander HP 9, abilitate 2 cooldown 5
+	b. Squirtle HP 30, abilitate 1 cooldown 3
+Charmander atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Charmander HP 9, abilitate 2 cooldown 4
+	b. Squirtle HP 31, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 8, abilitate 2 cooldown 3
+	b. Squirtle HP 31, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 9, abilitate 2 cooldown 2
+	b. Squirtle HP 32
+Charmander atac normal / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 7, abilitate 2 cooldown 1
+	b. Squirtle HP 33, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 8
+	b. Squirtle HP 33, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 9
+	b. Squirtle HP 34
+Charmander abilitate 2 / Squirtle abilitate 2 ->Rezultat:
+	a. Charmander HP 7, abilitate 2 cooldown 6
+	b. Squirtle HP 27, abilitate 2 cooldown 2
+Charmander nimic /  Squirtle atac special ->Rezultat:
+	a. Charmander HP 8, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Squirtle HP 27, abilitate 2 cooldown 1
+Charmander atac normal / Squirtle abilitate 1 ->Rezultat:
+	a. Charmander HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Squirtle HP 28, abilitate 1 cooldown 3
+Charmander atac normal / Squirtle nimic ->Rezultat: 
+	a. Charmander HP 4, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Squirtle HP 29, abilitate 1 cooldown 2
+Charmander atac normal / Squirtle atac special ->Rezultat:
+	a. Charmander HP 5, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Squirtle HP 30, abilitate 1 cooldown 1
+Charmander atac normal / 	a. Charmander HP 5, abilitate 2 cooldown 1
+	b. Squirtle HP 31
+Charmander abilitate 1 / Squirtle atac special ->Rezultat:
+	a. Charmander HP 6, abilitate 1 cooldown 4
+	b. Squirtle HP 27
+Squirtle castiga lupta
+Imbunatatire atribute: Squirtle HP: 62 Attack:0 Special Attack: 5 Defense: 7 SpecialDefense: 7

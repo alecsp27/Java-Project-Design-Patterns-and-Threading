@@ -1,0 +1,382 @@
+Luptator1: Psyduck HP: 53 Attack:3 Special Attack: 0 Defense: 3 SpecialDefense: 3
+Luptator2: Jigglypuff HP: 34 Attack:4 Special Attack: 0 Defense: 4 SpecialDefense: 5
+Jigglypuff abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 35, abilitate 2 cooldown 4
+	b. Psyduck HP 50
+Jigglypuff atac normal / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 35, abilitate 2 cooldown 3
+	b. Psyduck HP 49, abilitate 2 cooldown 5
+Jigglypuff abilitate 1 / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 35, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 45, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Jigglypuff nimic /  Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 45, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Jigglypuff abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 34, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Psyduck HP 42, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Jigglypuff atac normal / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Psyduck HP 41, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Jigglypuff atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 32, abilitate 2 cooldown 2
+	b. Psyduck HP 40, abilitate 1 cooldown 4
+Jigglypuff atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Jigglypuff HP 30, abilitate 2 cooldown 1
+	b. Psyduck HP 39, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Jigglypuff nimic /  Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 31, abilitate 1 cooldown 4
+	b. Psyduck HP 39, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Jigglypuff atac normal / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 31, abilitate 1 cooldown 3
+	b. Psyduck HP 38, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Jigglypuff abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 29, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Psyduck HP 35, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Jigglypuff atac normal / Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 30, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Psyduck HP 34, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 30, abilitate 2 cooldown 2
+	b. Psyduck HP 33, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Jigglypuff nimic /  Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 31, abilitate 2 cooldown 1
+	b. Psyduck HP 33, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Jigglypuff atac normal / Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 31
+	b. Psyduck HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Jigglypuff atac normal / Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 30
+	b. Psyduck HP 31, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Jigglypuff abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 31, abilitate 2 cooldown 4
+	b. Psyduck HP 28, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Jigglypuff atac normal / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 31, abilitate 2 cooldown 3
+	b. Psyduck HP 27, abilitate 1 cooldown 1
+Jigglypuff atac normal / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 31, abilitate 2 cooldown 2
+	b. Psyduck HP 26
+Jigglypuff abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 33, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Psyduck HP 22
+Jigglypuff atac normal / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 33, abilitate 1 cooldown 3
+	b. Psyduck HP 21
+Jigglypuff atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 31, abilitate 1 cooldown 2
+	b. Psyduck HP 20, abilitate 1 cooldown 4
+Jigglypuff abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 31, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Psyduck HP 17, abilitate 1 cooldown 3
+Jigglypuff atac normal / Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 32, abilitate 2 cooldown 3
+	b. Psyduck HP 16, abilitate 1 cooldown 3
+Jigglypuff nimic /  Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 33, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 16, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Jigglypuff atac normal / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 15, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Jigglypuff abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 34, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Psyduck HP 12, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Jigglypuff atac normal / Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Psyduck HP 11, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Jigglypuff abilitate 1 / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 34, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP 7, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Jigglypuff atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Jigglypuff HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 6, abilitate 1 cooldown 4
+Jigglypuff abilitate 2 / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 33, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Psyduck HP 3, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Jigglypuff nimic /  Psyduck atac normal ->Rezultat: 
+	a. Jigglypuff HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Psyduck HP 3, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Jigglypuff abilitate 1 / Psyduck nimic ->Rezultat: 
+	a. Jigglypuff HP 34, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Psyduck HP -1, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Jigglypuff castiga lupta
+Imbunatatire atribute: Jigglypuff HP: 35 Attack:5 Special Attack: 0 Defense: 3 SpecialDefense: 4
+Luptator1: Vulpix HP: 38 Attack:10 Special Attack: 0 Defense: 2 SpecialDefense: 10
+Luptator2: Meowth HP: 51 Attack:6 Special Attack: 0 Defense: 4 SpecialDefense: 2
+Meowth abilitate 1 / Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 45, abilitate 1 cooldown 4
+	b. Vulpix HP 33
+Meowth atac normal / Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 45, abilitate 1 cooldown 3
+	b. Vulpix HP 29
+Meowth atac normal / Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 39, abilitate 1 cooldown 2
+	b. Vulpix HP 25
+Meowth abilitate 2 / Vulpix abilitate 2 ->Rezultat:
+	a. Meowth HP 39, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Vulpix HP 25, abilitate 2 cooldown 7
+Meowth abilitate 1 / Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 39, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Vulpix HP 20, abilitate 2 cooldown 6
+Meowth atac normal / Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Vulpix HP 16, abilitate 2 cooldown 5
+Meowth atac normal / Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 33, abilitate 1 cooldown 2
+	b. Vulpix HP 12, abilitate 1 cooldown 6, abilitate 2 cooldown 4
+Meowth nimic /  Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 19, abilitate 1 cooldown 1
+	b. Vulpix HP 12, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Meowth atac normal / Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 13
+	b. Vulpix HP 8, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth atac normal / Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 7
+	b. Vulpix HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth abilitate 2 / Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 7, abilitate 2 cooldown 3
+	b. Vulpix HP 3, abilitate 1 cooldown 2
+Meowth abilitate 1 / Vulpix atac normal ->Rezultat: 
+	a. Meowth HP 7, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Vulpix HP -2, abilitate 1 cooldown 2
+Meowth castiga lupta
+Imbunatatire atribute: Meowth HP: 42 Attack:4 Special Attack: 0 Defense: 5 SpecialDefense: 3
+Luptator1: Snorlax HP: 62 Attack:6 Special Attack: 0 Defense: 7 SpecialDefense: 4
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Snorlax atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 65
+	b. Neutrel2 HP 15
+Snorlax atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 68
+	b. Neutrel2 HP 10
+Snorlax abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 68, abilitate 2 cooldown 5
+	b. Neutrel2 HP 10
+Snorlax abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 71, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	b. Neutrel2 HP 6
+Snorlax atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 71, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Neutrel2 HP 1
+Snorlax atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 71, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Neutrel2 HP -4
+Snorlax castiga lupta
+Imbunatatire atribute: Snorlax HP: 63 Attack: 4 Special Attack: 0 Defense: 7 SpecialDefense: 5
+
+Luptator1: Psyduck HP: 45 Attack:5 Special Attack: 0 Defense: 3 SpecialDefense: 9
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 44
+	b. Neutrel2 HP 16
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 43
+	b. Neutrel2 HP 12
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 42, abilitate 1 cooldown 4
+	b. Neutrel2 HP 10
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 41, abilitate 1 cooldown 3
+	b. Neutrel2 HP 6
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 40, abilitate 1 cooldown 2
+	b. Neutrel2 HP 2
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 39, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Neutrel2 HP 0
+Psyduck castiga lupta
+Imbunatatire atribute: Psyduck HP: 44 Attack:4 Special Attack: 0 Defense: 4 SpecialDefense: 4
+
+Luptator1: Snorlax HP: 63 Attack:7 Special Attack: 0 Defense: 8 SpecialDefense: 5
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Snorlax atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Snorlax HP 68
+	b. Neutrel1 HP 4
+Snorlax abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Snorlax HP 73, abilitate 1 cooldown 5
+	b. Neutrel1 HP 0
+Snorlax castiga luptaImbunatatire atribute: Snorlax HP: 64 Attack: 5 Special Attack: 0 Defense: 8 SpecialDefense: 6
+
+Luptator1: Psyduck HP: 46 Attack:6 Special Attack: 0 Defense: 4 SpecialDefense: 10
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 47, abilitate 2 cooldown 5
+	b. Neutrel1 HP 8
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 47, abilitate 2 cooldown 4
+	b. Neutrel1 HP 3
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 47, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Neutrel1 HP 1
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 48, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Neutrel1 HP -4
+Psyduck castiga luptaImbunatatire atribute: Psyduck HP: 45 Attack:5 Special Attack: 0 Defense: 5 SpecialDefense: 5
+
+Luptator1: Snorlax HP: 64 Attack:8 Special Attack: 0 Defense: 9 SpecialDefense: 6
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Snorlax abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 69, abilitate 1 cooldown 5
+	b. Neutrel2 HP 16
+Snorlax abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 69, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	b. Neutrel2 HP 16
+Snorlax atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 74, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	b. Neutrel2 HP 9
+Snorlax atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 79, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Neutrel2 HP 2
+Snorlax atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Snorlax HP 84, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Neutrel2 HP -5
+Snorlax castiga lupta
+Imbunatatire atribute: Snorlax HP: 65 Attack: 6 Special Attack: 0 Defense: 9 SpecialDefense: 7
+
+Luptator1: Psyduck HP: 47 Attack:7 Special Attack: 0 Defense: 5 SpecialDefense: 11
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 48, abilitate 1 cooldown 4
+	b. Neutrel2 HP 18
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 49, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Neutrel2 HP 16
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 49, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Neutrel2 HP 10
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 49, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Neutrel2 HP 4
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 49, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Neutrel2 HP 2
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 50, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP -4
+Psyduck castiga lupta
+Imbunatatire atribute: Psyduck HP: 46 Attack:6 Special Attack: 0 Defense: 6 SpecialDefense: 6
+
+Luptator1: Snorlax HP: 65 Attack:9 Special Attack: 0 Defense: 10 SpecialDefense: 7
+Luptator2: Psyduck HP: 48 Attack:8 Special Attack: 0 Defense: 6 SpecialDefense: 12
+Psyduck atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Psyduck HP 48
+	b. Snorlax HP 65, abilitate 2 cooldown 5
+Psyduck abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 45, abilitate 2 cooldown 5
+	b. Snorlax HP 63, abilitate 2 cooldown 4
+Psyduck abilitate 1 / Snorlax nimic ->Rezultat: 
+	a. Psyduck HP 45, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Snorlax HP 61, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Psyduck nimic /  Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 42, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Snorlax HP 61, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Psyduck atac normal / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 39, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Snorlax HP 63, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Psyduck atac normal / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 36, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Snorlax HP 65, abilitate 1 cooldown 2
+Psyduck abilitate 1 / Snorlax abilitate 2 ->Rezultat:
+	a. Psyduck HP 36, abilitate 1 cooldown 4
+	b. Snorlax HP 65, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Psyduck abilitate 2 / 	a. Psyduck HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Snorlax HP 65, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Psyduck nimic /  Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 29, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Snorlax HP 65, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Psyduck atac normal / Snorlax nimic ->Rezultat: 
+	a. Psyduck HP 29, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Snorlax HP 67, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Psyduck abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 26, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Snorlax HP 65, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Psyduck atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Psyduck HP 26, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Snorlax HP 65, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Psyduck atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Psyduck HP 22, abilitate 1 cooldown 2
+	b. Snorlax HP 67, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Psyduck nimic /  Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 19, abilitate 1 cooldown 1
+	b. Snorlax HP 67, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Psyduck abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 16, abilitate 1 cooldown 4
+	b. Snorlax HP 65, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Psyduck atac normal / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 13, abilitate 1 cooldown 3
+	b. Snorlax HP 67, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Psyduck abilitate 2 / Snorlax abilitate 2 ->Rezultat:
+	a. Psyduck HP 13, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Snorlax HP 67, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Psyduck atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Psyduck HP 9, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Snorlax HP 69, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Psyduck nimic /  Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 6, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Snorlax HP 69, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Psyduck atac normal / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 3, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Snorlax HP 71, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Psyduck atac normal / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 0, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Snorlax HP 73, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax castiga lupta
+Imbunatatire atribute: Snorlax HP: 66 Attack:7 Special Attack: 0 Defense: 10 SpecialDefense: 8
+Luptator1: Snorlax HP: 66 Attack:10 Special Attack: 0 Defense: 11 SpecialDefense: 8
+Luptator2: Psyduck HP: 48 Attack:8 Special Attack: 0 Defense: 6 SpecialDefense: 12
+Psyduck atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Psyduck HP 48
+	b. Snorlax HP 66, abilitate 2 cooldown 5
+Psyduck atac normal / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 44
+	b. Snorlax HP 69, abilitate 2 cooldown 4
+Psyduck abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 40, abilitate 1 cooldown 4
+	b. Snorlax HP 67, abilitate 2 cooldown 3
+Psyduck abilitate 2 / Snorlax abilitate 1 ->Rezultat:
+	a. Psyduck HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Snorlax HP 65, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Psyduck atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Psyduck HP 36, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Snorlax HP 68, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Psyduck nimic /  Snorlax abilitate 2 ->Rezultat:
+	a. Psyduck HP 36, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Snorlax HP 68, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Psyduck atac normal / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 32, abilitate 2 cooldown 2
+	b. Snorlax HP 71, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Psyduck abilitate 1 / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 28, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Snorlax HP 69, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Psyduck abilitate 2 / Snorlax abilitate 1 ->Rezultat:
+	a. Psyduck HP 24, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Snorlax HP 67, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Psyduck nimic /  Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 20, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Snorlax HP 67, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Psyduck atac normal / Snorlax nimic ->Rezultat: 
+	a. Psyduck HP 20, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Snorlax HP 70, abilitate 1 cooldown 3
+Psyduck atac normal / Snorlax abilitate 2 ->Rezultat:
+	a. Psyduck HP 20, abilitate 2 cooldown 2
+	b. Snorlax HP 70, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Psyduck atac normal / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 16, abilitate 2 cooldown 1
+	b. Snorlax HP 73, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Psyduck abilitate 2 / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 12, abilitate 2 cooldown 5
+	b. Snorlax HP 71, abilitate 2 cooldown 3
+Psyduck atac normal / Snorlax nimic ->Rezultat: 
+	a. Psyduck HP 12, abilitate 2 cooldown 4
+	b. Snorlax HP 74, abilitate 2 cooldown 2
+Psyduck atac normal / Snorlax atac normal ->Rezultat: 
+	a. Psyduck HP 8, abilitate 2 cooldown 3
+	b. Snorlax HP 77, abilitate 2 cooldown 1
+Psyduck abilitate 1 / Snorlax abilitate 2 ->Rezultat:
+	a. Psyduck HP 8, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Snorlax HP 75, abilitate 2 cooldown 5
+Psyduck atac normal / Snorlax abilitate 1 ->Rezultat:
+	a. Psyduck HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Snorlax HP 75, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Snorlax castiga lupta
+Imbunatatire atribute: Snorlax HP: 67 Attack:8 Special Attack: 0 Defense: 11 SpecialDefense: 9

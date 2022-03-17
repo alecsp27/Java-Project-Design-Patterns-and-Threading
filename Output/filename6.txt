@@ -1,0 +1,612 @@
+Luptator1: Pikachu HP: 45 Attack:0 Special Attack: 7 Defense: 2 SpecialDefense: 3
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 45, abilitate 2 cooldown 5
+	b. Neutrel2 HP 16
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 45, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel2 HP 10
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel2 HP 4
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 41, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP -2
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 36 Attack: 0 Special Attack: 5 Defense: 3 SpecialDefense: 4
+
+Luptator1: Meowth HP: 51 Attack:3 Special Attack: 0 Defense: 6 SpecialDefense: 4
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 53
+	b. Neutrel2 HP 18
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 53, abilitate 2 cooldown 3
+	b. Neutrel2 HP 17
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 53, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Neutrel2 HP 12
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 55, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP 10
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 55, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Neutrel2 HP 9
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 57, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Neutrel2 HP 7
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 59, abilitate 2 cooldown 1
+	b. Neutrel2 HP 5
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 61
+	b. Neutrel2 HP 3
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 61, abilitate 2 cooldown 3
+	b. Neutrel2 HP 2
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 63, abilitate 2 cooldown 2
+	b. Neutrel2 HP 0
+Meowth castiga lupta
+Imbunatatire atribute: Meowth HP: 42 Attack:4 Special Attack: 0 Defense: 5 SpecialDefense: 3
+
+Luptator1: Pikachu HP: 46 Attack:0 Special Attack: 8 Defense: 3 SpecialDefense: 4
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 45
+	b. Neutrel2 HP 13
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 44
+	b. Neutrel2 HP 6
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 43
+	b. Neutrel2 HP -1
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 37 Attack: 0 Special Attack: 6 Defense: 4 SpecialDefense: 5
+
+Luptator1: Meowth HP: 52 Attack:4 Special Attack: 0 Defense: 7 SpecialDefense: 5
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 52, abilitate 2 cooldown 3
+	b. Neutrel2 HP 19
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 55, abilitate 2 cooldown 2
+	b. Neutrel2 HP 16
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 55, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Neutrel2 HP 11
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 55, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel2 HP 10
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 58, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 7
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 61, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP 4
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 64
+	b. Neutrel2 HP 1
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 64, abilitate 1 cooldown 4
+	b. Neutrel2 HP -4
+Meowth castiga lupta
+Imbunatatire atribute: Meowth HP: 43 Attack:5 Special Attack: 0 Defense: 6 SpecialDefense: 4
+
+Luptator1: Pikachu HP: 47 Attack:0 Special Attack: 9 Defense: 4 SpecialDefense: 5
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 48
+	b. Neutrel1 HP 2
+Pikachu atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 49
+	b. Neutrel1 HP -6
+Pikachu castiga luptaImbunatatire atribute: Pikachu HP: 38 Attack: 0 Special Attack: 7 Defense: 5 SpecialDefense: 6
+
+Luptator1: Meowth HP: 53 Attack:5 Special Attack: 0 Defense: 8 SpecialDefense: 6
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 53, abilitate 1 cooldown 4
+	b. Neutrel1 HP 5
+Meowth atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 58, abilitate 1 cooldown 3
+	b. Neutrel1 HP 1
+Meowth abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 58, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Neutrel1 HP 0
+Meowth castiga luptaImbunatatire atribute: Meowth HP: 44 Attack:6 Special Attack: 0 Defense: 7 SpecialDefense: 5
+
+Luptator1: Pikachu HP: 48 Attack:0 Special Attack: 10 Defense: 5 SpecialDefense: 6
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 48, abilitate 2 cooldown 5
+	b. Neutrel2 HP 16
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 48, abilitate 2 cooldown 4
+	b. Neutrel2 HP 7
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 48, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Neutrel2 HP 1
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 49, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Neutrel2 HP -8
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 39 Attack: 0 Special Attack: 8 Defense: 6 SpecialDefense: 7
+
+Luptator1: Meowth HP: 54 Attack:6 Special Attack: 0 Defense: 9 SpecialDefense: 7
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 59
+	b. Neutrel2 HP 15
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 59, abilitate 1 cooldown 4
+	b. Neutrel2 HP 10
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 64, abilitate 1 cooldown 3
+	b. Neutrel2 HP 5
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 64, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Neutrel2 HP 4
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 69, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Neutrel2 HP -1
+Meowth castiga lupta
+Imbunatatire atribute: Meowth HP: 45 Attack:7 Special Attack: 0 Defense: 8 SpecialDefense: 6
+
+Luptator1: Pikachu HP: 49 Attack:0 Special Attack: 11 Defense: 6 SpecialDefense: 7
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 49, abilitate 2 cooldown 5
+	b. Neutrel1 HP 6
+Pikachu atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 49, abilitate 2 cooldown 4
+	b. Neutrel1 HP -4
+Pikachu castiga luptaImbunatatire atribute: Pikachu HP: 40 Attack: 0 Special Attack: 9 Defense: 7 SpecialDefense: 8
+
+Luptator1: Meowth HP: 55 Attack:7 Special Attack: 0 Defense: 10 SpecialDefense: 8
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 62
+	b. Neutrel1 HP 4
+Meowth abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Meowth HP 62, abilitate 1 cooldown 4
+	b. Neutrel1 HP -1
+Meowth castiga luptaImbunatatire atribute: Meowth HP: 46 Attack:8 Special Attack: 0 Defense: 9 SpecialDefense: 7
+
+Luptator1: Pikachu HP: 50 Attack:0 Special Attack: 12 Defense: 7 SpecialDefense: 8
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 53, abilitate 1 cooldown 4
+	b. Neutrel2 HP 14
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 56, abilitate 1 cooldown 3
+	b. Neutrel2 HP 3
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 59, abilitate 1 cooldown 2
+	b. Neutrel2 HP -8
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 41 Attack: 0 Special Attack: 10 Defense: 8 SpecialDefense: 9
+
+Luptator1: Meowth HP: 56 Attack:8 Special Attack: 0 Defense: 11 SpecialDefense: 9
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 63
+	b. Neutrel2 HP 13
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 70
+	b. Neutrel2 HP 6
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 70, abilitate 1 cooldown 4
+	b. Neutrel2 HP 1
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 77, abilitate 1 cooldown 3
+	b. Neutrel2 HP -6
+Meowth castiga lupta
+Imbunatatire atribute: Meowth HP: 47 Attack:9 Special Attack: 0 Defense: 10 SpecialDefense: 8
+
+Luptator1: Pikachu HP: 51 Attack:0 Special Attack: 13 Defense: 8 SpecialDefense: 9
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 55, abilitate 1 cooldown 4
+	b. Neutrel2 HP 14
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 59, abilitate 1 cooldown 3
+	b. Neutrel2 HP 2
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 59, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Neutrel2 HP -2
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 42 Attack: 0 Special Attack: 11 Defense: 9 SpecialDefense: 10
+
+Luptator1: Meowth HP: 57 Attack:9 Special Attack: 0 Defense: 12 SpecialDefense: 10
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 65
+	b. Neutrel2 HP 12
+Meowth atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 73
+	b. Neutrel2 HP 4
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 73, abilitate 2 cooldown 3
+	b. Neutrel2 HP 3
+Meowth abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Meowth HP 73, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Neutrel2 HP -2
+Meowth castiga lupta
+Imbunatatire atribute: Meowth HP: 48 Attack:10 Special Attack: 0 Defense: 11 SpecialDefense: 9
+
+Luptator1: Pikachu HP: 52 Attack:0 Special Attack: 14 Defense: 9 SpecialDefense: 10
+Luptator2: Meowth HP: 58 Attack:10 Special Attack: 0 Defense: 13 SpecialDefense: 11
+Meowth atac normal / Pikachu abilitate 2 ->Rezultat:
+	a. Meowth HP 54
+	b. Pikachu HP 52, abilitate 2 cooldown 5
+Meowth abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Meowth HP 54, abilitate 2 cooldown 3
+	b. Pikachu HP 52, abilitate 2 cooldown 4
+Meowth abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Meowth HP 54, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Pikachu HP 47, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 54, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 46, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Meowth abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Meowth HP 54, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Pikachu HP 45, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 51, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Pikachu HP 44, abilitate 1 cooldown 1
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 48, abilitate 2 cooldown 1
+	b. Pikachu HP 43
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 45
+	b. Pikachu HP 42
+Meowth abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Meowth HP 45, abilitate 1 cooldown 4
+	b. Pikachu HP 37, abilitate 1 cooldown 4
+Meowth abilitate 2 / Pikachu abilitate 2 ->Rezultat:
+	a. Meowth HP 45, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Pikachu HP 37, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 42, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 36, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 39, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 35, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 36
+	b. Pikachu HP 34, abilitate 2 cooldown 2
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 36
+	b. Pikachu HP 33, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Meowth abilitate 1 / Pikachu abilitate 2 ->Rezultat:
+	a. Meowth HP 30, abilitate 1 cooldown 4
+	b. Pikachu HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Meowth nimic /  Pikachu atac special ->Rezultat:
+	a. Meowth HP 27, abilitate 1 cooldown 3
+	b. Pikachu HP 33, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Meowth abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Meowth HP 24, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Pikachu HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Meowth atac normal / Pikachu abilitate 1 ->Rezultat:
+	a. Meowth HP 18, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Pikachu HP 31, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Meowth HP 18, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Pikachu HP 26, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Meowth HP 15, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Pikachu HP 25, abilitate 1 cooldown 2
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 12, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 24, abilitate 1 cooldown 1
+Meowth atac normal / Pikachu abilitate 2 ->Rezultat:
+	a. Meowth HP 8, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 24, abilitate 2 cooldown 5
+Meowth nimic /  Pikachu abilitate 1 ->Rezultat:
+	a. Meowth HP 8, abilitate 1 cooldown 4
+	b. Pikachu HP 24, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 5, abilitate 1 cooldown 3
+	b. Pikachu HP 23, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 2, abilitate 1 cooldown 2
+	b. Pikachu HP 22, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 43 Attack:0 Special Attack: 12 Defense: 10 SpecialDefense: 11
+Luptator1: Vulpix HP: 38 Attack:10 Special Attack: 0 Defense: 2 SpecialDefense: 10
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Vulpix atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 37
+	b. Neutrel1 HP 1
+Vulpix abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 37, abilitate 2 cooldown 7
+	b. Neutrel1 HP -1
+Vulpix castiga luptaImbunatatire atribute: Vulpix HP: 37 Attack: 6 Special Attack: 0 Defense: 3 SpecialDefense: 5
+
+Luptator1: Psyduck HP: 43 Attack:3 Special Attack: 0 Defense: 3 SpecialDefense: 9
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 43
+	b. Neutrel1 HP 8
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 43
+	b. Neutrel1 HP 6
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 43
+	b. Neutrel1 HP 4
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 43, abilitate 2 cooldown 5
+	b. Neutrel1 HP 2
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 43, abilitate 2 cooldown 4
+	b. Neutrel1 HP 0
+Psyduck castiga luptaImbunatatire atribute: Psyduck HP: 44 Attack:4 Special Attack: 0 Defense: 4 SpecialDefense: 4
+
+Luptator1: Vulpix HP: 39 Attack:11 Special Attack: 0 Defense: 3 SpecialDefense: 11
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Vulpix atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 39
+	b. Neutrel1 HP 0
+Vulpix castiga luptaImbunatatire atribute: Vulpix HP: 38 Attack: 7 Special Attack: 0 Defense: 4 SpecialDefense: 6
+
+Luptator1: Psyduck HP: 44 Attack:4 Special Attack: 0 Defense: 4 SpecialDefense: 10
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 45, abilitate 2 cooldown 5
+	b. Neutrel1 HP 8
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 45, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel1 HP 6
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 46, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel1 HP 3
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 47, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel1 HP 0
+Psyduck castiga luptaImbunatatire atribute: Psyduck HP: 45 Attack:5 Special Attack: 0 Defense: 5 SpecialDefense: 5
+
+Luptator1: Vulpix HP: 40 Attack:12 Special Attack: 0 Defense: 4 SpecialDefense: 12
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Vulpix abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 40, abilitate 2 cooldown 7
+	b. Neutrel1 HP 8
+Vulpix atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Vulpix HP 41, abilitate 2 cooldown 6
+	b. Neutrel1 HP -3
+Vulpix castiga luptaImbunatatire atribute: Vulpix HP: 39 Attack: 8 Special Attack: 0 Defense: 5 SpecialDefense: 7
+
+Luptator1: Psyduck HP: 45 Attack:5 Special Attack: 0 Defense: 5 SpecialDefense: 11
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 47, abilitate 2 cooldown 5
+	b. Neutrel1 HP 8
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 47, abilitate 2 cooldown 4
+	b. Neutrel1 HP 4
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 47, abilitate 2 cooldown 3
+	b. Neutrel1 HP 0
+Psyduck castiga luptaImbunatatire atribute: Psyduck HP: 46 Attack:6 Special Attack: 0 Defense: 6 SpecialDefense: 6
+
+Luptator1: Vulpix HP: 41 Attack:13 Special Attack: 0 Defense: 5 SpecialDefense: 13
+Luptator2: Psyduck HP: 46 Attack:6 Special Attack: 0 Defense: 6 SpecialDefense: 12
+Psyduck abilitate 1 / Vulpix abilitate 1 ->Rezultat:
+	a. Psyduck HP 38, abilitate 1 cooldown 4
+	b. Vulpix HP 39, abilitate 1 cooldown 6
+Psyduck atac normal / Vulpix abilitate 2 ->Rezultat:
+	a. Psyduck HP 36, abilitate 1 cooldown 3
+	b. Vulpix HP 38, abilitate 1 cooldown 5, abilitate 2 cooldown 7
+Psyduck nimic /  Vulpix atac normal ->Rezultat: 
+	a. Psyduck HP 29, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Vulpix HP 38, abilitate 1 cooldown 4, abilitate 2 cooldown 6
+Psyduck atac normal / Vulpix atac normal ->Rezultat: 
+	a. Psyduck HP 22, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Vulpix HP 37, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Psyduck abilitate 1 / Vulpix nimic ->Rezultat: 
+	a. Psyduck HP 22, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Vulpix HP 35, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Psyduck atac normal / Vulpix atac normal ->Rezultat: 
+	a. Psyduck HP 15, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Vulpix HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Psyduck atac normal / Vulpix atac normal ->Rezultat: 
+	a. Psyduck HP 8, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Vulpix HP 33, abilitate 2 cooldown 2
+Vulpix castiga lupta
+Imbunatatire atribute: Vulpix HP: 40 Attack:9 Special Attack: 0 Defense: 6 SpecialDefense: 8
+Luptator1: Psyduck HP: 43 Attack:6 Special Attack: 0 Defense: 4 SpecialDefense: 3
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 43, abilitate 2 cooldown 5
+	b. Neutrel2 HP 18
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel2 HP 16
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel2 HP 11
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 43, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 6
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP 1
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 43, abilitate 1 cooldown 4
+	b. Neutrel2 HP -1
+Psyduck castiga lupta
+Imbunatatire atribute: Psyduck HP: 44 Attack: 4 Special Attack: 0 Defense: 4 SpecialDefense: 4
+
+Luptator1: Eevee HP: 39 Attack:0 Special Attack: 4 Defense: 3 SpecialDefense: 3
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 38
+	b. Neutrel2 HP 17
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 37
+	b. Neutrel2 HP 14
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 36, abilitate 2 cooldown 3
+	b. Neutrel2 HP 9
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 36, abilitate 2 cooldown 2
+	b. Neutrel2 HP 6
+Eevee atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 36, abilitate 2 cooldown 1
+	b. Neutrel2 HP 3
+Eevee abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Eevee HP 36, abilitate 2 cooldown 3
+	b. Neutrel2 HP -2
+Eevee castiga lupta
+Imbunatatire atribute: Eevee HP: 40 Attack:0 Special Attack: 5 Defense: 4 SpecialDefense: 4
+
+Luptator1: Psyduck HP: 44 Attack:7 Special Attack: 0 Defense: 5 SpecialDefense: 4
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 46, abilitate 2 cooldown 5
+	b. Neutrel1 HP 8
+Psyduck abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 46, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel1 HP 6
+Psyduck atac normal  / Neutrel1 atac normal -> Rezultat:
+	a. Psyduck HP 48, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel1 HP 0
+Psyduck castiga luptaImbunatatire atribute: Psyduck HP: 45 Attack: 5 Special Attack: 0 Defense: 5 SpecialDefense: 5
+
+Luptator1: Eevee HP: 40 Attack:0 Special Attack: 5 Defense: 4 SpecialDefense: 4
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Eevee atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Eevee HP 41
+	b. Neutrel1 HP 6
+Eevee abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Eevee HP 42, abilitate 2 cooldown 3
+	b. Neutrel1 HP 1
+Eevee atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Eevee HP 42, abilitate 2 cooldown 2
+	b. Neutrel1 HP -3
+Eevee castiga luptaImbunatatire atribute: Eevee HP: 41 Attack:0 Special Attack: 6 Defense: 5 SpecialDefense: 5
+
+Luptator1: Psyduck HP: 45 Attack:8 Special Attack: 0 Defense: 6 SpecialDefense: 5
+Luptator2: Eevee HP: 41 Attack:0 Special Attack: 6 Defense: 5 SpecialDefense: 5
+Eevee abilitate 2 / Psyduck abilitate 2 ->Rezultat:
+	a. Eevee HP 39, abilitate 2 cooldown 3
+	b. Psyduck HP 42, abilitate 2 cooldown 5
+Eevee nimic /  Psyduck nimic ->Rezultat: 
+	a. Eevee HP 39, abilitate 2 cooldown 2
+	b. Psyduck HP 42, abilitate 2 cooldown 4
+Eevee abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Eevee HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Psyduck HP 37, abilitate 2 cooldown 3
+Eevee abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Eevee HP 34, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Psyduck HP 34, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Eevee atac special / Psyduck atac normal ->Rezultat: 
+	a. Eevee HP 31, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Psyduck HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Eevee atac special / Psyduck nimic ->Rezultat: 
+	a. Eevee HP 31, abilitate 2 cooldown 1
+	b. Psyduck HP 32, abilitate 1 cooldown 2
+Eevee abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Eevee HP 28, abilitate 2 cooldown 3
+	b. Psyduck HP 29, abilitate 1 cooldown 1
+Eevee abilitate 1 / Psyduck abilitate 2 ->Rezultat:
+	a. Eevee HP 26, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Psyduck HP 24, abilitate 2 cooldown 5
+Eevee atac special / Psyduck nimic ->Rezultat: 
+	a. Eevee HP 26, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Psyduck HP 23, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Eevee nimic /  Psyduck atac normal ->Rezultat: 
+	a. Eevee HP 23, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Psyduck HP 23, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Eevee abilitate 1 / Psyduck nimic ->Rezultat: 
+	a. Eevee HP 23, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Psyduck HP 18, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Eevee atac special / Psyduck nimic ->Rezultat: 
+	a. Eevee HP 23, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Psyduck HP 17, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Eevee abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Eevee HP 18, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Psyduck HP 14, abilitate 1 cooldown 4
+Eevee atac special / Psyduck abilitate 2 ->Rezultat:
+	a. Eevee HP 16, abilitate 2 cooldown 2
+	b. Psyduck HP 13, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Eevee nimic /  Psyduck nimic ->Rezultat: 
+	a. Eevee HP 16, abilitate 2 cooldown 1
+	b. Psyduck HP 13, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Eevee abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Eevee HP 13, abilitate 2 cooldown 3
+	b. Psyduck HP 10, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Eevee atac special / Psyduck abilitate 1 ->Rezultat:
+	a. Eevee HP 11, abilitate 2 cooldown 2
+	b. Psyduck HP 9, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Eevee atac special / Psyduck nimic ->Rezultat: 
+	a. Eevee HP 11, abilitate 2 cooldown 1
+	b. Psyduck HP 8, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Eevee abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Eevee HP 8, abilitate 1 cooldown 3
+	b. Psyduck HP 3, abilitate 1 cooldown 2
+Eevee atac special / Psyduck abilitate 2 ->Rezultat:
+	a. Eevee HP 6, abilitate 1 cooldown 2
+	b. Psyduck HP 2, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Eevee nimic /  Psyduck abilitate 1 ->Rezultat:
+	a. Eevee HP 4, abilitate 1 cooldown 1
+	b. Psyduck HP 2, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Eevee abilitate 2 / 	a. Eevee HP 4, abilitate 2 cooldown 3
+	b. Psyduck HP -1, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Eevee castiga lupta
+Imbunatatire atribute: Eevee HP: 42 Attack:0 Special Attack: 7 Defense: 6 SpecialDefense: 6
+Luptator1: Pikachu HP: 53 Attack:0 Special Attack: 15 Defense: 10 SpecialDefense: 11
+Luptator2: Meowth HP: 58 Attack:10 Special Attack: 0 Defense: 13 SpecialDefense: 11
+Meowth atac normal / Pikachu abilitate 1 ->Rezultat:
+	a. Meowth HP 52
+	b. Pikachu HP 53, abilitate 1 cooldown 4
+Meowth atac normal / Pikachu abilitate 1 ->Rezultat:
+	a. Meowth HP 52
+	b. Pikachu HP 53, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Meowth nimic /  Pikachu atac special ->Rezultat:
+	a. Meowth HP 44, abilitate 1 cooldown 4
+	b. Pikachu HP 53, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Meowth abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Meowth HP 40, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Pikachu HP 52, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Meowth atac normal / Pikachu abilitate 1 ->Rezultat:
+	a. Meowth HP 34, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 52, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 30, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 26
+	b. Pikachu HP 52, abilitate 1 cooldown 2
+Meowth abilitate 1 / Pikachu abilitate 2 ->Rezultat:
+	a. Meowth HP 26, abilitate 1 cooldown 4
+	b. Pikachu HP 52, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Meowth atac normal / Pikachu abilitate 1 ->Rezultat:
+	a. Meowth HP 26, abilitate 1 cooldown 3
+	b. Pikachu HP 52, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 22, abilitate 1 cooldown 2
+	b. Pikachu HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 18, abilitate 1 cooldown 1
+	b. Pikachu HP 52, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Meowth abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Meowth HP 14, abilitate 2 cooldown 3
+	b. Pikachu HP 51, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Meowth abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Meowth HP 14, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Pikachu HP 46
+Meowth atac normal / Pikachu abilitate 2 ->Rezultat:
+	a. Meowth HP 14, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 46, abilitate 2 cooldown 5
+Meowth nimic /  Pikachu atac special ->Rezultat:
+	a. Meowth HP 10, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Pikachu HP 46, abilitate 2 cooldown 4
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 6, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Pikachu HP 46, abilitate 2 cooldown 3
+Meowth atac normal / Pikachu atac special ->Rezultat:
+	a. Meowth HP 6, abilitate 2 cooldown 1
+	b. Pikachu HP 46, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 44 Attack:0 Special Attack: 13 Defense: 11 SpecialDefense: 12

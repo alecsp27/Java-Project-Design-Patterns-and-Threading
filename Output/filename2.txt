@@ -1,0 +1,666 @@
+Luptator1: Pikachu HP: 35 Attack:0 Special Attack: 4 Defense: 2 SpecialDefense: 3
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 35, abilitate 2 cooldown 5
+	b. Neutrel1 HP 6
+Pikachu abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 35, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel1 HP 0
+Pikachu castiga luptaImbunatatire atribute: Pikachu HP: 36 Attack: 0 Special Attack: 5 Defense: 3 SpecialDefense: 4
+
+Luptator1: Squirtle HP: 60 Attack:0 Special Attack: 3 Defense: 5 SpecialDefense: 5
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Squirtle abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Squirtle HP 62, abilitate 1 cooldown 3
+	b. Neutrel1 HP 6
+Squirtle atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Squirtle HP 64, abilitate 1 cooldown 2
+	b. Neutrel1 HP 4
+Squirtle abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Squirtle HP 66, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Neutrel1 HP 0
+Squirtle castiga luptaImbunatatire atribute: Squirtle HP: 61 Attack:0 Special Attack: 4 Defense: 6 SpecialDefense: 6
+
+Luptator1: Pikachu HP: 36 Attack:0 Special Attack: 5 Defense: 3 SpecialDefense: 4
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 35, abilitate 1 cooldown 4
+	b. Neutrel2 HP 14
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 34, abilitate 1 cooldown 3
+	b. Neutrel2 HP 10
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 34, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Neutrel2 HP 6
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Neutrel2 HP 2
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 34, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Neutrel2 HP -4
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 37 Attack: 0 Special Attack: 6 Defense: 4 SpecialDefense: 5
+
+Luptator1: Squirtle HP: 61 Attack:0 Special Attack: 4 Defense: 6 SpecialDefense: 6
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Squirtle atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 63
+	b. Neutrel2 HP 17
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 65, abilitate 1 cooldown 3
+	b. Neutrel2 HP 13
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 67, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 9
+Squirtle atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 67, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP 6
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 67, abilitate 1 cooldown 3
+	b. Neutrel2 HP 2
+Squirtle atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 69, abilitate 1 cooldown 2
+	b. Neutrel2 HP -1
+Squirtle castiga lupta
+Imbunatatire atribute: Squirtle HP: 62 Attack:0 Special Attack: 5 Defense: 7 SpecialDefense: 7
+
+Luptator1: Pikachu HP: 37 Attack:0 Special Attack: 6 Defense: 4 SpecialDefense: 5
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 37, abilitate 2 cooldown 5
+	b. Neutrel2 HP 16
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 37, abilitate 2 cooldown 4
+	b. Neutrel2 HP 11
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 37, abilitate 2 cooldown 3
+	b. Neutrel2 HP 6
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 37, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	b. Neutrel2 HP 0
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 38 Attack: 0 Special Attack: 7 Defense: 5 SpecialDefense: 6
+
+Luptator1: Squirtle HP: 62 Attack:0 Special Attack: 5 Defense: 7 SpecialDefense: 7
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Squirtle atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 65
+	b. Neutrel2 HP 16
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 68, abilitate 2 cooldown 2
+	b. Neutrel2 HP 12
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 68, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP 8
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 71, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 4
+Squirtle atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 71, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP 0
+Squirtle castiga lupta
+Imbunatatire atribute: Squirtle HP: 63 Attack:0 Special Attack: 6 Defense: 8 SpecialDefense: 8
+
+Luptator1: Pikachu HP: 38 Attack:0 Special Attack: 7 Defense: 5 SpecialDefense: 6
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 38, abilitate 2 cooldown 5
+	b. Neutrel2 HP 16
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 38, abilitate 2 cooldown 4
+	b. Neutrel2 HP 10
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 38, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Neutrel2 HP 4
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 39, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Neutrel2 HP -2
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 39 Attack: 0 Special Attack: 8 Defense: 6 SpecialDefense: 7
+
+Luptator1: Squirtle HP: 63 Attack:0 Special Attack: 6 Defense: 8 SpecialDefense: 8
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 67, abilitate 2 cooldown 2
+	b. Neutrel2 HP 16
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 67, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP 12
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 71, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 8
+Squirtle atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 71, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP 3
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 71, abilitate 1 cooldown 3
+	b. Neutrel2 HP -1
+Squirtle castiga lupta
+Imbunatatire atribute: Squirtle HP: 64 Attack:0 Special Attack: 7 Defense: 9 SpecialDefense: 9
+
+Luptator1: Pikachu HP: 39 Attack:0 Special Attack: 8 Defense: 6 SpecialDefense: 7
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 39, abilitate 2 cooldown 5
+	b. Neutrel1 HP 6
+Pikachu abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 39, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel1 HP 0
+Pikachu castiga luptaImbunatatire atribute: Pikachu HP: 40 Attack: 0 Special Attack: 9 Defense: 7 SpecialDefense: 8
+
+Luptator1: Squirtle HP: 64 Attack:0 Special Attack: 7 Defense: 9 SpecialDefense: 9
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Squirtle atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Squirtle HP 70
+	b. Neutrel1 HP 4
+Squirtle abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Squirtle HP 76, abilitate 2 cooldown 2
+	b. Neutrel1 HP 0
+Squirtle castiga luptaImbunatatire atribute: Squirtle HP: 65 Attack:0 Special Attack: 8 Defense: 10 SpecialDefense: 10
+
+Luptator1: Pikachu HP: 40 Attack:0 Special Attack: 9 Defense: 7 SpecialDefense: 8
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 43, abilitate 1 cooldown 4
+	b. Neutrel2 HP 14
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	b. Neutrel2 HP 10
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 43, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	b. Neutrel2 HP 2
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	b. Neutrel2 HP -6
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 41 Attack: 0 Special Attack: 10 Defense: 8 SpecialDefense: 9
+
+Luptator1: Squirtle HP: 65 Attack:0 Special Attack: 8 Defense: 10 SpecialDefense: 10
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 71, abilitate 2 cooldown 2
+	b. Neutrel2 HP 16
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 71, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP 12
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 77, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 8
+Squirtle atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 77, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP 1
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 77, abilitate 1 cooldown 3
+	b. Neutrel2 HP -3
+Squirtle castiga lupta
+Imbunatatire atribute: Squirtle HP: 66 Attack:0 Special Attack: 9 Defense: 11 SpecialDefense: 11
+
+Luptator1: Pikachu HP: 41 Attack:0 Special Attack: 10 Defense: 8 SpecialDefense: 9
+Luptator 2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 41, abilitate 2 cooldown 5
+	b. Neutrel1 HP 6
+Pikachu abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Pikachu HP 41, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel1 HP 0
+Pikachu castiga luptaImbunatatire atribute: Pikachu HP: 42 Attack: 0 Special Attack: 11 Defense: 9 SpecialDefense: 10
+
+Luptator1: Squirtle HP: 66 Attack:0 Special Attack: 9 Defense: 11 SpecialDefense: 11
+Luptator2: Neutrel1 HP: 10 Attack:3 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Squirtle abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Squirtle HP 74, abilitate 1 cooldown 3
+	b. Neutrel1 HP 6
+Squirtle abilitatea 1 / Neutrel1 atac normal -> Rezultat:
+	a. Squirtle HP 82, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel1 HP 2
+Squirtle atac special  / Neutrel1 atac normal -> Rezultat:
+	a. Squirtle HP 82, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel1 HP -6
+Squirtle castiga luptaImbunatatire atribute: Squirtle HP: 67 Attack:0 Special Attack: 10 Defense: 12 SpecialDefense: 12
+
+Luptator1: Pikachu HP: 42 Attack:0 Special Attack: 11 Defense: 9 SpecialDefense: 10
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 42, abilitate 2 cooldown 5
+	b. Neutrel2 HP 16
+Pikachu abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 42, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel2 HP 10
+Pikachu atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Pikachu HP 47, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel2 HP 0
+Pikachu castiga lupta
+Imbunatatire atribute: Pikachu HP: 43 Attack: 0 Special Attack: 12 Defense: 10 SpecialDefense: 11
+
+Luptator1: Squirtle HP: 67 Attack:0 Special Attack: 10 Defense: 12 SpecialDefense: 12
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 75, abilitate 1 cooldown 3
+	b. Neutrel2 HP 16
+Squirtle atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 83, abilitate 1 cooldown 2
+	b. Neutrel2 HP 7
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 91, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Neutrel2 HP 3
+Squirtle abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Squirtle HP 91, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Neutrel2 HP -1
+Squirtle castiga lupta
+Imbunatatire atribute: Squirtle HP: 68 Attack:0 Special Attack: 11 Defense: 13 SpecialDefense: 13
+
+Luptator1: Pikachu HP: 43 Attack:0 Special Attack: 12 Defense: 10 SpecialDefense: 11
+Luptator2: Squirtle HP: 68 Attack:0 Special Attack: 11 Defense: 13 SpecialDefense: 13
+Squirtle atac special / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 69
+	b. Pikachu HP 43
+Squirtle abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 70, abilitate 1 cooldown 3
+	b. Pikachu HP 39
+Squirtle atac special / Pikachu abilitate 2 ->Rezultat:
+	a. Squirtle HP 66, abilitate 1 cooldown 2
+	b. Pikachu HP 39, abilitate 2 cooldown 5
+Squirtle nimic /  Pikachu atac special ->Rezultat:
+	a. Squirtle HP 67, abilitate 1 cooldown 1
+	b. Pikachu HP 39, abilitate 2 cooldown 4
+Squirtle atac special / Pikachu abilitate 1 ->Rezultat:
+	a. Squirtle HP 61
+	b. Pikachu HP 39, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 62, abilitate 2 cooldown 2
+	b. Pikachu HP 37, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Squirtle atac special / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 62, abilitate 2 cooldown 1
+	b. Pikachu HP 37, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 63, abilitate 2 cooldown 2
+	b. Pikachu HP 35, abilitate 1 cooldown 1
+Squirtle abilitate 1 / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 63, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 31, abilitate 2 cooldown 5
+Squirtle nimic /  Pikachu atac special ->Rezultat:
+	a. Squirtle HP 64, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 31, abilitate 2 cooldown 4
+Squirtle atac special / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 64, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 31, abilitate 2 cooldown 3
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 65, abilitate 2 cooldown 2
+	b. Pikachu HP 29, abilitate 2 cooldown 2
+Squirtle atac special / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 65, abilitate 2 cooldown 1
+	b. Pikachu HP 29, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Squirtle abilitate 1 / Pikachu abilitate 2 ->Rezultat:
+	a. Squirtle HP 61, abilitate 1 cooldown 3
+	b. Pikachu HP 29, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Squirtle nimic /  Pikachu atac special ->Rezultat:
+	a. Squirtle HP 62, abilitate 1 cooldown 2
+	b. Pikachu HP 29, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Squirtle atac special / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 63, abilitate 1 cooldown 1
+	b. Pikachu HP 29, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Squirtle abilitate 2 / Pikachu abilitate 1 ->Rezultat:
+	a. Squirtle HP 57, abilitate 2 cooldown 2
+	b. Pikachu HP 27, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Squirtle abilitate 1 / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 57, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 23, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 58, abilitate 1 cooldown 2
+	b. Pikachu HP 23, abilitate 1 cooldown 2
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 59, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Pikachu HP 21, abilitate 1 cooldown 1
+Squirtle abilitate 1 / Pikachu abilitate 2 ->Rezultat:
+	a. Squirtle HP 55, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 21, abilitate 2 cooldown 5
+Squirtle nimic /  Pikachu abilitate 1 ->Rezultat:
+	a. Squirtle HP 49, abilitate 1 cooldown 2
+	b. Pikachu HP 21, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 50, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Pikachu HP 19, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Squirtle atac special / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 51, abilitate 2 cooldown 1
+	b. Pikachu HP 19, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 51, abilitate 2 cooldown 2
+	b. Pikachu HP 17, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Squirtle abilitate 1 / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 51, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 13, abilitate 2 cooldown 5
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 52, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 13, abilitate 2 cooldown 4
+Squirtle nimic /  Pikachu atac special ->Rezultat:
+	a. Squirtle HP 53, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 13, abilitate 2 cooldown 3
+Squirtle abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 53, abilitate 1 cooldown 3
+	b. Pikachu HP 9, abilitate 2 cooldown 3
+Squirtle atac special / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 47, abilitate 1 cooldown 2
+	b. Pikachu HP 9, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 48, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Pikachu HP 7, abilitate 1 cooldown 3
+Squirtle abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 49, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 3, abilitate 1 cooldown 2
+Squirtle abilitate 2 / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 49, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 1, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Squirtle nimic /  Pikachu atac special ->Rezultat:
+	a. Squirtle HP 50, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 1, abilitate 2 cooldown 4
+Squirtle abilitate 2 / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 50, abilitate 2 cooldown 2
+	b. Pikachu HP -1, abilitate 2 cooldown 3
+Squirtle castiga lupta
+Imbunatatire atribute: Squirtle HP: 69 Attack:0 Special Attack: 12 Defense: 14 SpecialDefense: 14
+Luptator1: Jigglypuff HP: 34 Attack:4 Special Attack: 0 Defense: 2 SpecialDefense: 3
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 1 cooldown 4
+	b. Neutrel2 HP 16
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 1 cooldown 3
+	b. Neutrel2 HP 13
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 1 cooldown 2
+	b. Neutrel2 HP 10
+Jigglypuff atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 1 cooldown 1
+	b. Neutrel2 HP 7
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 2 cooldown 4
+	b. Neutrel2 HP 3
+Jigglypuff abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Jigglypuff HP 32, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Neutrel2 HP -1
+Jigglypuff castiga lupta
+Imbunatatire atribute: Jigglypuff HP: 35 Attack: 5 Special Attack: 0 Defense: 3 SpecialDefense: 4
+
+Luptator1: Bulbasaur HP: 42 Attack:0 Special Attack: 5 Defense: 3 SpecialDefense: 1
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 41, abilitate 1 cooldown 4
+	b. Neutrel2 HP 14
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 40, abilitate 1 cooldown 3
+	b. Neutrel2 HP 10
+Bulbasaur abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 39, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Neutrel2 HP 4
+Bulbasaur atac special  / Neutrel2 atac normal -> Rezultat:
+	a. Bulbasaur HP 38, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Neutrel2 HP 0
+Bulbasaur castiga lupta
+Imbunatatire atribute: Bulbasaur HP: 43 Attack:0 Special Attack: 6 Defense: 4 SpecialDefense: 2
+
+Luptator1: Jigglypuff HP: 35 Attack:5 Special Attack: 0 Defense: 3 SpecialDefense: 4
+Luptator2: Bulbasaur HP: 43 Attack:0 Special Attack: 6 Defense: 4 SpecialDefense: 2
+Bulbasaur abilitate 2 / Jigglypuff abilitate 2 ->Rezultat:
+	a. Bulbasaur HP 40, abilitate 2 cooldown 3
+	b. Jigglypuff HP 30, abilitate 2 cooldown 4
+Bulbasaur nimic /  Jigglypuff atac normal ->Rezultat: 
+	a. Bulbasaur HP 39, abilitate 2 cooldown 2
+	b. Jigglypuff HP 30, abilitate 2 cooldown 3
+Bulbasaur abilitate 1 / Jigglypuff atac normal ->Rezultat: 
+	a. Bulbasaur HP 38, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Jigglypuff HP 24, abilitate 2 cooldown 2
+Bulbasaur atac special / Jigglypuff atac normal ->Rezultat: 
+	a. Bulbasaur HP 37, abilitate 1 cooldown 3
+	b. Jigglypuff HP 22, abilitate 2 cooldown 1
+Bulbasaur abilitate 2 / Jigglypuff abilitate 1 ->Rezultat:
+	a. Bulbasaur HP 33, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Jigglypuff HP 17, abilitate 1 cooldown 4
+Bulbasaur nimic /  Jigglypuff abilitate 2 ->Rezultat:
+	a. Bulbasaur HP 30, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Jigglypuff HP 17, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Bulbasaur nimic /  Jigglypuff atac normal ->Rezultat: 
+	a. Bulbasaur HP 29, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	b. Jigglypuff HP 17, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Bulbasaur atac special / Jigglypuff atac normal ->Rezultat: 
+	a. Bulbasaur HP 28, abilitate 1 cooldown 3
+	b. Jigglypuff HP 15, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Bulbasaur abilitate 2 / Jigglypuff abilitate 1 ->Rezultat:
+	a. Bulbasaur HP 24, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	b. Jigglypuff HP 10, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Bulbasaur atac special / Jigglypuff abilitate 2 ->Rezultat:
+	a. Bulbasaur HP 21, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	b. Jigglypuff HP 8, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Bulbasaur nimic /  Jigglypuff atac normal ->Rezultat: 
+	a. Bulbasaur HP 20, abilitate 2 cooldown 1
+	b. Jigglypuff HP 8, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Bulbasaur nimic /  Jigglypuff atac normal ->Rezultat: 
+	a. Bulbasaur HP 19
+	b. Jigglypuff HP 8, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Bulbasaur abilitate 1 / Jigglypuff atac normal ->Rezultat: 
+	a. Bulbasaur HP 18, abilitate 1 cooldown 4
+	b. Jigglypuff HP 2, abilitate 2 cooldown 1
+Bulbasaur atac special / Jigglypuff atac normal ->Rezultat: 
+	a. Bulbasaur HP 18, abilitate 1 cooldown 3
+	b. Jigglypuff HP 0, abilitate 2 cooldown 1
+Bulbasaur castiga lupta
+Imbunatatire atribute: Bulbasaur HP: 44 Attack:0 Special Attack: 7 Defense: 5 SpecialDefense: 3
+Luptator1: Psyduck HP: 43 Attack:3 Special Attack: 0 Defense: 3 SpecialDefense: 3
+Luptator 2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 42, abilitate 1 cooldown 4
+	b. Neutrel2 HP 18
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 41, abilitate 1 cooldown 3
+	b. Neutrel2 HP 16
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 40, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	b. Neutrel2 HP 14
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	b. Neutrel2 HP 12
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 40, abilitate 2 cooldown 3
+	b. Neutrel2 HP 10
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 40, abilitate 2 cooldown 2
+	b. Neutrel2 HP 8
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 40, abilitate 2 cooldown 1
+	b. Neutrel2 HP 6
+Psyduck abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 40, abilitate 2 cooldown 5
+	b. Neutrel2 HP 4
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 40, abilitate 2 cooldown 4
+	b. Neutrel2 HP 2
+Psyduck atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Psyduck HP 40, abilitate 2 cooldown 3
+	b. Neutrel2 HP 0
+Psyduck castiga lupta
+Imbunatatire atribute: Psyduck HP: 44 Attack: 4 Special Attack: 0 Defense: 4 SpecialDefense: 4
+
+Luptator1: Charmander HP: 50 Attack:4 Special Attack: 0 Defense: 3 SpecialDefense: 2
+Luptator2: Neutrel2 HP: 20 Attack:4 Special Attack: 0 Defense: 1 SpecialDefense: 1
+Charmander abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 49, abilitate 2 cooldown 6
+	b. Neutrel2 HP 16
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 48, abilitate 2 cooldown 5
+	b. Neutrel2 HP 13
+Charmander abilitatea 1 / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 47, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Neutrel2 HP 9
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 47, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Neutrel2 HP 6
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 47, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Neutrel2 HP 3
+Charmander atac normal  / Neutrel2 atac normal -> Rezultat:
+	a. Charmander HP 47, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Neutrel2 HP 0
+Charmander castiga lupta
+Imbunatatire atribute: Charmander HP: 51 Attack:5 Special Attack: 0 Defense: 4 SpecialDefense: 3
+
+Luptator1: Psyduck HP: 44 Attack:4 Special Attack: 0 Defense: 4 SpecialDefense: 4
+Luptator2: Charmander HP: 51 Attack:5 Special Attack: 0 Defense: 4 SpecialDefense: 3
+Charmander abilitate 2 / Psyduck abilitate 1 ->Rezultat:
+	a. Charmander HP 49, abilitate 2 cooldown 6
+	b. Psyduck HP 37, abilitate 1 cooldown 4
+Charmander atac normal / 	a. Charmander HP 49, abilitate 2 cooldown 5
+	b. Psyduck HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Charmander nimic /  Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 47, abilitate 2 cooldown 4
+	b. Psyduck HP 36, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Charmander abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 47, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	b. Psyduck HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Charmander atac normal / Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 47, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	b. Psyduck HP 31, abilitate 2 cooldown 2
+Charmander atac normal / Psyduck nimic ->Rezultat: 
+	a. Charmander HP 47, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	b. Psyduck HP 30, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Charmander atac normal / Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 47, abilitate 1 cooldown 1
+	b. Psyduck HP 29, abilitate 1 cooldown 3
+Charmander atac normal / Psyduck abilitate 2 ->Rezultat:
+	a. Charmander HP 47
+	b. Psyduck HP 28, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Charmander nimic /  Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 45
+	b. Psyduck HP 28, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Charmander abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 45, abilitate 1 cooldown 4
+	b. Psyduck HP 24, abilitate 2 cooldown 3
+Charmander atac normal / Psyduck abilitate 1 ->Rezultat:
+	a. Charmander HP 43, abilitate 1 cooldown 3
+	b. Psyduck HP 23, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Charmander abilitate 2 / Psyduck nimic ->Rezultat: 
+	a. Charmander HP 43, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	b. Psyduck HP 16, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Charmander atac normal / Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	b. Psyduck HP 15, abilitate 1 cooldown 2
+Charmander abilitate 1 / Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	b. Psyduck HP 11, abilitate 1 cooldown 1
+Charmander atac normal / Psyduck nimic ->Rezultat: 
+	a. Charmander HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	b. Psyduck HP 10, abilitate 1 cooldown 4
+Charmander atac normal / Psyduck nimic ->Rezultat: 
+	a. Charmander HP 43, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Psyduck HP 9, abilitate 1 cooldown 3
+Charmander atac normal / Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Psyduck HP 8, abilitate 1 cooldown 2
+Charmander atac normal / Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 43
+	b. Psyduck HP 7, abilitate 1 cooldown 1
+Charmander abilitate 1 / Psyduck abilitate 2 ->Rezultat:
+	a. Charmander HP 41, abilitate 1 cooldown 4
+	b. Psyduck HP 3, abilitate 2 cooldown 5
+Charmander nimic /  Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 41, abilitate 1 cooldown 3
+	b. Psyduck HP 3, abilitate 2 cooldown 4
+Charmander atac normal / Psyduck nimic ->Rezultat: 
+	a. Charmander HP 41, abilitate 1 cooldown 2
+	b. Psyduck HP 2, abilitate 2 cooldown 3
+Charmander abilitate 2 / Psyduck atac normal ->Rezultat: 
+	a. Charmander HP 41, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	b. Psyduck HP -5, abilitate 2 cooldown 2
+Charmander castiga lupta
+Imbunatatire atribute: Charmander HP: 52 Attack:6 Special Attack: 0 Defense: 5 SpecialDefense: 4
+Luptator1: Pikachu HP: 43 Attack:0 Special Attack: 12 Defense: 10 SpecialDefense: 11
+Luptator2: Squirtle HP: 69 Attack:0 Special Attack: 12 Defense: 14 SpecialDefense: 14
+Squirtle abilitate 2 / Pikachu abilitate 1 ->Rezultat:
+	a. Squirtle HP 63, abilitate 2 cooldown 2
+	b. Pikachu HP 41, abilitate 1 cooldown 4
+Squirtle abilitate 1 / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 63, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 41, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Squirtle nimic /  Pikachu atac special ->Rezultat:
+	a. Squirtle HP 65, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 41, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Squirtle atac special / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 65, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Squirtle abilitate 1 / Pikachu abilitate 1 ->Rezultat:
+	a. Squirtle HP 59, abilitate 1 cooldown 3
+	b. Pikachu HP 36, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 61, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 34, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 61, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 33, abilitate 1 cooldown 2
+Squirtle abilitate 2 / Pikachu abilitate 2 ->Rezultat:
+	a. Squirtle HP 57, abilitate 2 cooldown 2
+	b. Pikachu HP 33, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Squirtle nimic /  Pikachu atac special ->Rezultat:
+	a. Squirtle HP 59, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 33, abilitate 2 cooldown 4
+Squirtle abilitate 2 / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 59, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 31, abilitate 2 cooldown 3
+Squirtle atac special / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 59, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 30, abilitate 2 cooldown 2
+Squirtle abilitate 1 / Pikachu abilitate 1 ->Rezultat:
+	a. Squirtle HP 53, abilitate 1 cooldown 3
+	b. Pikachu HP 26, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Squirtle atac special / Pikachu abilitate 2 ->Rezultat:
+	a. Squirtle HP 49, abilitate 1 cooldown 2
+	b. Pikachu HP 25, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Squirtle nimic /  Pikachu atac special ->Rezultat:
+	a. Squirtle HP 51, abilitate 1 cooldown 1
+	b. Pikachu HP 25, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Squirtle abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 53, abilitate 1 cooldown 3
+	b. Pikachu HP 21, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Squirtle atac special / Pikachu abilitate 1 ->Rezultat:
+	a. Squirtle HP 47, abilitate 1 cooldown 2
+	b. Pikachu HP 20, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Squirtle atac special / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 49, abilitate 1 cooldown 1
+	b. Pikachu HP 19, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special / Pikachu abilitate 2 ->Rezultat:
+	a. Squirtle HP 45
+	b. Pikachu HP 18, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Squirtle atac special / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 47
+	b. Pikachu HP 18, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Squirtle nimic /  Pikachu abilitate 1 ->Rezultat:
+	a. Squirtle HP 41, abilitate 1 cooldown 3
+	b. Pikachu HP 18, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 43, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 16, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Squirtle atac special / 	a. Squirtle HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 15, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 45, abilitate 2 cooldown 2
+	b. Pikachu HP 13, abilitate 1 cooldown 1
+Squirtle atac special / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 45, abilitate 2 cooldown 1
+	b. Pikachu HP 12, abilitate 2 cooldown 5
+Squirtle nimic /  Pikachu atac special ->Rezultat:
+	a. Squirtle HP 47, abilitate 2 cooldown 2
+	b. Pikachu HP 12, abilitate 2 cooldown 4
+Squirtle abilitate 1 / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 47, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	b. Pikachu HP 8, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Squirtle abilitate 2 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 49, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	b. Pikachu HP 6, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Squirtle atac special / Pikachu nimic ->Rezultat: 
+	a. Squirtle HP 49, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	b. Pikachu HP 5, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Squirtle abilitate 1 / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 51, abilitate 1 cooldown 3
+	b. Pikachu HP 1, abilitate 1 cooldown 1
+Squirtle atac special / Pikachu atac special ->Rezultat:
+	a. Squirtle HP 51, abilitate 1 cooldown 2
+	b. Pikachu HP 0, abilitate 1 cooldown 1
+Squirtle castiga lupta
+Imbunatatire atribute: Squirtle HP: 70 Attack:0 Special Attack: 13 Defense: 15 SpecialDefense: 15
